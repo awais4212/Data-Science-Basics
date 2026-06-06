@@ -1,0 +1,21 @@
+Name,Age,Gender,Salary,Department,Experience,City
+Alice,28,Female,55000,IT,3,New York
+Bob,35,,72000,Finance,8,Los Angeles
+Charlie,42,Male,,HR,15,Chicago
+Diana,30,Female,61000,IT,,Houston
+Edward,25,Male,48000,Marketing,2,
+Fiona,38,Female,85000,Finance,12,Philadelphia
+George,,Male,67000,IT,7,San Antonio
+Hannah,27,Female,52000,,3,San Diego
+Ivan,45,Male,95000,Management,20,Dallas
+Julia,31,,63000,Marketing,6,San Jose
+Kevin,29,Male,,IT,4,Austin
+Laura,36,Female,78000,Finance,10,
+Michael,40,Male,88000,HR,,Fort Worth
+Nancy,,Female,50000,Marketing,2,Columbus
+Oscar,34,Male,70000,IT,8,Charlotte
+Patricia,39,Female,,Finance,13,Indianapolis
+Quinn,28,Male,54000,HR,3,
+Rachel,32,Female,65000,,7,Seattle
+Steve,47,Male,98000,Management,22,Denver
+Tina,24,Female,46000,IT,,Nashville
