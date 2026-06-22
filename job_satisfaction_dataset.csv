@@ -1,0 +1,2401 @@
+ID,Job_Type,Job_Satisfaction
+1,Full-Time,Neutral
+2,Full-Time,Satisfied
+3,Freelance,Dissatisfied
+4,Internship,Neutral
+5,Freelance,Very Satisfied
+6,Full-Time,Neutral
+7,Full-Time,Very Dissatisfied
+8,Internship,Dissatisfied
+9,Contract,Satisfied
+10,Internship,Neutral
+11,Freelance,Satisfied
+12,Freelance,Dissatisfied
+13,Full-Time,Dissatisfied
+14,Full-Time,Neutral
+15,Contract,Neutral
+16,Full-Time,Satisfied
+17,Contract,Very Satisfied
+18,Full-Time,Satisfied
+19,Internship,Very Dissatisfied
+20,Freelance,Very Satisfied
+21,Part-Time,Neutral
+22,Full-Time,Satisfied
+23,Full-Time,Satisfied
+24,Freelance,Satisfied
+25,Freelance,Satisfied
+26,Part-Time,Neutral
+27,Full-Time,Dissatisfied
+28,Internship,Neutral
+29,Full-Time,Very Satisfied
+30,Internship,Dissatisfied
+31,Part-Time,Neutral
+32,Part-Time,Neutral
+33,Full-Time,Neutral
+34,Internship,Very Dissatisfied
+35,Part-Time,Very Satisfied
+36,Internship,Very Dissatisfied
+37,Contract,Dissatisfied
+38,Full-Time,Dissatisfied
+39,Part-Time,Very Dissatisfied
+40,Contract,Satisfied
+41,Full-Time,Very Satisfied
+42,Internship,Very Dissatisfied
+43,Full-Time,Very Satisfied
+44,Full-Time,Satisfied
+45,Freelance,Dissatisfied
+46,Freelance,Very Dissatisfied
+47,Full-Time,Satisfied
+48,Contract,Dissatisfied
+49,Full-Time,Very Dissatisfied
+50,Full-Time,Neutral
+51,Full-Time,Very Satisfied
+52,Full-Time,Neutral
+53,Part-Time,Neutral
+54,Contract,Neutral
+55,Contract,Neutral
+56,Freelance,Very Satisfied
+57,Full-Time,Satisfied
+58,Freelance,Satisfied
+59,Contract,Satisfied
+60,Internship,Very Dissatisfied
+61,Full-Time,Very Satisfied
+62,Full-Time,Satisfied
+63,Contract,Satisfied
+64,Freelance,Neutral
+65,Full-Time,Neutral
+66,Part-Time,Very Satisfied
+67,Full-Time,Neutral
+68,Part-Time,Very Satisfied
+69,Full-Time,Neutral
+70,Freelance,Neutral
+71,Contract,Satisfied
+72,Internship,Dissatisfied
+73,Full-Time,Very Satisfied
+74,Internship,Satisfied
+75,Contract,Neutral
+76,Full-Time,Satisfied
+77,Freelance,Neutral
+78,Contract,Dissatisfied
+79,Part-Time,Very Dissatisfied
+80,Full-Time,Very Satisfied
+81,Full-Time,Satisfied
+82,Full-Time,Satisfied
+83,Freelance,Very Satisfied
+84,Freelance,Very Satisfied
+85,Part-Time,Dissatisfied
+86,Part-Time,Satisfied
+87,Full-Time,Neutral
+88,Part-Time,Satisfied
+89,Freelance,Very Satisfied
+90,Full-Time,Very Satisfied
+91,Full-Time,Very Satisfied
+92,Full-Time,Very Satisfied
+93,Part-Time,Neutral
+94,Full-Time,Satisfied
+95,Part-Time,Neutral
+96,Part-Time,Very Satisfied
+97,Full-Time,Satisfied
+98,Full-Time,Satisfied
+99,Freelance,Very Satisfied
+100,Full-Time,Satisfied
+101,Freelance,Satisfied
+102,Freelance,Neutral
+103,Full-Time,Very Satisfied
+104,Full-Time,Satisfied
+105,Contract,Neutral
+106,Part-Time,Satisfied
+107,Full-Time,Neutral
+108,Part-Time,Very Dissatisfied
+109,Full-Time,Satisfied
+110,Freelance,Very Dissatisfied
+111,Full-Time,Very Satisfied
+112,Full-Time,Very Satisfied
+113,Full-Time,Very Satisfied
+114,Internship,Neutral
+115,Freelance,Neutral
+116,Freelance,Very Satisfied
+117,Full-Time,Satisfied
+118,Contract,Satisfied
+119,Part-Time,Satisfied
+120,Part-Time,Dissatisfied
+121,Freelance,Dissatisfied
+122,Full-Time,Satisfied
+123,Full-Time,Very Satisfied
+124,Freelance,Neutral
+125,Freelance,Satisfied
+126,Full-Time,Very Satisfied
+127,Full-Time,Neutral
+128,Part-Time,Very Satisfied
+129,Freelance,Satisfied
+130,Full-Time,Very Dissatisfied
+131,Full-Time,Satisfied
+132,Full-Time,Satisfied
+133,Full-Time,Neutral
+134,Freelance,Neutral
+135,Internship,Neutral
+136,Part-Time,Satisfied
+137,Full-Time,Very Satisfied
+138,Contract,Satisfied
+139,Full-Time,Satisfied
+140,Part-Time,Neutral
+141,Full-Time,Neutral
+142,Freelance,Very Satisfied
+143,Contract,Satisfied
+144,Part-Time,Neutral
+145,Contract,Very Satisfied
+146,Part-Time,Very Dissatisfied
+147,Part-Time,Dissatisfied
+148,Full-Time,Satisfied
+149,Internship,Very Satisfied
+150,Freelance,Very Satisfied
+151,Part-Time,Neutral
+152,Internship,Neutral
+153,Freelance,Satisfied
+154,Contract,Neutral
+155,Freelance,Dissatisfied
+156,Freelance,Very Satisfied
+157,Contract,Satisfied
+158,Full-Time,Very Satisfied
+159,Full-Time,Neutral
+160,Freelance,Very Satisfied
+161,Full-Time,Satisfied
+162,Full-Time,Dissatisfied
+163,Freelance,Dissatisfied
+164,Freelance,Satisfied
+165,Part-Time,Satisfied
+166,Internship,Neutral
+167,Full-Time,Neutral
+168,Contract,Neutral
+169,Freelance,Dissatisfied
+170,Part-Time,Satisfied
+171,Internship,Satisfied
+172,Full-Time,Very Satisfied
+173,Full-Time,Satisfied
+174,Full-Time,Satisfied
+175,Part-Time,Neutral
+176,Full-Time,Neutral
+177,Full-Time,Satisfied
+178,Part-Time,Dissatisfied
+179,Part-Time,Neutral
+180,Full-Time,Satisfied
+181,Full-Time,Dissatisfied
+182,Contract,Neutral
+183,Part-Time,Satisfied
+184,Full-Time,Very Satisfied
+185,Freelance,Neutral
+186,Internship,Very Satisfied
+187,Full-Time,Satisfied
+188,Internship,Neutral
+189,Contract,Very Satisfied
+190,Part-Time,Very Dissatisfied
+191,Part-Time,Satisfied
+192,Full-Time,Neutral
+193,Freelance,Neutral
+194,Full-Time,Satisfied
+195,Full-Time,Neutral
+196,Freelance,Very Satisfied
+197,Full-Time,Neutral
+198,Full-Time,Dissatisfied
+199,Full-Time,Very Satisfied
+200,Full-Time,Neutral
+201,Full-Time,Dissatisfied
+202,Full-Time,Very Dissatisfied
+203,Freelance,Neutral
+204,Freelance,Satisfied
+205,Full-Time,Very Satisfied
+206,Contract,Satisfied
+207,Contract,Dissatisfied
+208,Contract,Very Satisfied
+209,Internship,Neutral
+210,Full-Time,Very Satisfied
+211,Full-Time,Very Dissatisfied
+212,Full-Time,Neutral
+213,Full-Time,Very Satisfied
+214,Contract,Dissatisfied
+215,Part-Time,Neutral
+216,Full-Time,Satisfied
+217,Contract,Very Satisfied
+218,Full-Time,Neutral
+219,Full-Time,Satisfied
+220,Contract,Satisfied
+221,Internship,Dissatisfied
+222,Part-Time,Very Satisfied
+223,Part-Time,Satisfied
+224,Contract,Neutral
+225,Internship,Dissatisfied
+226,Full-Time,Satisfied
+227,Contract,Satisfied
+228,Full-Time,Very Dissatisfied
+229,Internship,Very Dissatisfied
+230,Full-Time,Satisfied
+231,Internship,Satisfied
+232,Full-Time,Very Satisfied
+233,Full-Time,Very Satisfied
+234,Full-Time,Satisfied
+235,Freelance,Satisfied
+236,Contract,Neutral
+237,Full-Time,Neutral
+238,Full-Time,Satisfied
+239,Contract,Very Satisfied
+240,Contract,Satisfied
+241,Freelance,Very Satisfied
+242,Full-Time,Very Dissatisfied
+243,Full-Time,Very Satisfied
+244,Contract,Dissatisfied
+245,Full-Time,Very Satisfied
+246,Full-Time,Dissatisfied
+247,Part-Time,Neutral
+248,Full-Time,Satisfied
+249,Full-Time,Satisfied
+250,Part-Time,Very Satisfied
+251,Full-Time,Satisfied
+252,Full-Time,Very Satisfied
+253,Contract,Very Satisfied
+254,Contract,Satisfied
+255,Part-Time,Dissatisfied
+256,Full-Time,Dissatisfied
+257,Freelance,Satisfied
+258,Full-Time,Very Satisfied
+259,Freelance,Satisfied
+260,Contract,Satisfied
+261,Full-Time,Satisfied
+262,Freelance,Satisfied
+263,Full-Time,Neutral
+264,Internship,Neutral
+265,Full-Time,Very Dissatisfied
+266,Internship,Neutral
+267,Part-Time,Satisfied
+268,Part-Time,Satisfied
+269,Part-Time,Satisfied
+270,Contract,Dissatisfied
+271,Contract,Dissatisfied
+272,Full-Time,Satisfied
+273,Contract,Dissatisfied
+274,Part-Time,Neutral
+275,Part-Time,Neutral
+276,Full-Time,Satisfied
+277,Internship,Neutral
+278,Full-Time,Satisfied
+279,Full-Time,Satisfied
+280,Freelance,Very Satisfied
+281,Freelance,Very Satisfied
+282,Contract,Very Satisfied
+283,Full-Time,Satisfied
+284,Freelance,Satisfied
+285,Freelance,Very Satisfied
+286,Freelance,Very Satisfied
+287,Full-Time,Very Satisfied
+288,Full-Time,Very Satisfied
+289,Freelance,Satisfied
+290,Full-Time,Satisfied
+291,Contract,Dissatisfied
+292,Full-Time,Satisfied
+293,Full-Time,Neutral
+294,Part-Time,Very Satisfied
+295,Full-Time,Very Satisfied
+296,Full-Time,Dissatisfied
+297,Full-Time,Neutral
+298,Freelance,Neutral
+299,Full-Time,Neutral
+300,Freelance,Very Satisfied
+301,Full-Time,Satisfied
+302,Contract,Satisfied
+303,Full-Time,Very Dissatisfied
+304,Contract,Neutral
+305,Full-Time,Satisfied
+306,Part-Time,Satisfied
+307,Contract,Very Dissatisfied
+308,Full-Time,Very Satisfied
+309,Freelance,Satisfied
+310,Part-Time,Neutral
+311,Contract,Neutral
+312,Part-Time,Satisfied
+313,Contract,Satisfied
+314,Internship,Very Dissatisfied
+315,Full-Time,Very Satisfied
+316,Full-Time,Very Satisfied
+317,Freelance,Satisfied
+318,Full-Time,Satisfied
+319,Full-Time,Very Satisfied
+320,Internship,Dissatisfied
+321,Internship,Neutral
+322,Internship,Dissatisfied
+323,Freelance,Neutral
+324,Part-Time,Satisfied
+325,Freelance,Very Satisfied
+326,Full-Time,Satisfied
+327,Part-Time,Very Satisfied
+328,Full-Time,Neutral
+329,Freelance,Satisfied
+330,Freelance,Very Dissatisfied
+331,Full-Time,Neutral
+332,Full-Time,Neutral
+333,Full-Time,Dissatisfied
+334,Contract,Dissatisfied
+335,Freelance,Satisfied
+336,Full-Time,Very Dissatisfied
+337,Full-Time,Dissatisfied
+338,Full-Time,Satisfied
+339,Freelance,Satisfied
+340,Full-Time,Satisfied
+341,Full-Time,Neutral
+342,Full-Time,Satisfied
+343,Part-Time,Satisfied
+344,Freelance,Neutral
+345,Full-Time,Satisfied
+346,Contract,Satisfied
+347,Freelance,Dissatisfied
+348,Full-Time,Very Satisfied
+349,Full-Time,Satisfied
+350,Full-Time,Satisfied
+351,Contract,Neutral
+352,Part-Time,Dissatisfied
+353,Contract,Satisfied
+354,Full-Time,Satisfied
+355,Internship,Very Dissatisfied
+356,Part-Time,Neutral
+357,Full-Time,Dissatisfied
+358,Full-Time,Dissatisfied
+359,Full-Time,Dissatisfied
+360,Full-Time,Satisfied
+361,Internship,Dissatisfied
+362,Contract,Very Satisfied
+363,Full-Time,Satisfied
+364,Part-Time,Very Satisfied
+365,Part-Time,Dissatisfied
+366,Freelance,Very Satisfied
+367,Full-Time,Very Satisfied
+368,Full-Time,Neutral
+369,Contract,Dissatisfied
+370,Full-Time,Very Dissatisfied
+371,Full-Time,Dissatisfied
+372,Full-Time,Very Satisfied
+373,Freelance,Neutral
+374,Freelance,Very Satisfied
+375,Full-Time,Dissatisfied
+376,Full-Time,Satisfied
+377,Full-Time,Very Satisfied
+378,Full-Time,Satisfied
+379,Freelance,Satisfied
+380,Contract,Very Satisfied
+381,Full-Time,Neutral
+382,Full-Time,Satisfied
+383,Full-Time,Satisfied
+384,Full-Time,Neutral
+385,Full-Time,Neutral
+386,Full-Time,Satisfied
+387,Full-Time,Dissatisfied
+388,Part-Time,Neutral
+389,Freelance,Satisfied
+390,Freelance,Very Satisfied
+391,Internship,Dissatisfied
+392,Full-Time,Satisfied
+393,Full-Time,Very Satisfied
+394,Part-Time,Very Dissatisfied
+395,Part-Time,Dissatisfied
+396,Freelance,Neutral
+397,Part-Time,Very Dissatisfied
+398,Part-Time,Neutral
+399,Internship,Dissatisfied
+400,Full-Time,Satisfied
+401,Contract,Dissatisfied
+402,Full-Time,Satisfied
+403,Freelance,Neutral
+404,Freelance,Satisfied
+405,Full-Time,Neutral
+406,Part-Time,Very Satisfied
+407,Part-Time,Very Satisfied
+408,Freelance,Satisfied
+409,Freelance,Satisfied
+410,Full-Time,Neutral
+411,Full-Time,Satisfied
+412,Full-Time,Neutral
+413,Full-Time,Neutral
+414,Freelance,Satisfied
+415,Full-Time,Very Satisfied
+416,Full-Time,Satisfied
+417,Internship,Satisfied
+418,Part-Time,Dissatisfied
+419,Part-Time,Neutral
+420,Full-Time,Satisfied
+421,Full-Time,Satisfied
+422,Freelance,Satisfied
+423,Part-Time,Neutral
+424,Contract,Neutral
+425,Full-Time,Satisfied
+426,Contract,Satisfied
+427,Part-Time,Very Satisfied
+428,Part-Time,Neutral
+429,Full-Time,Satisfied
+430,Full-Time,Satisfied
+431,Full-Time,Very Satisfied
+432,Internship,Neutral
+433,Freelance,Dissatisfied
+434,Freelance,Satisfied
+435,Contract,Neutral
+436,Full-Time,Very Satisfied
+437,Full-Time,Dissatisfied
+438,Full-Time,Satisfied
+439,Full-Time,Very Satisfied
+440,Part-Time,Very Satisfied
+441,Full-Time,Satisfied
+442,Contract,Neutral
+443,Contract,Dissatisfied
+444,Freelance,Very Satisfied
+445,Full-Time,Dissatisfied
+446,Contract,Dissatisfied
+447,Full-Time,Dissatisfied
+448,Part-Time,Very Satisfied
+449,Part-Time,Neutral
+450,Full-Time,Satisfied
+451,Contract,Dissatisfied
+452,Full-Time,Neutral
+453,Freelance,Satisfied
+454,Freelance,Neutral
+455,Full-Time,Satisfied
+456,Full-Time,Very Satisfied
+457,Part-Time,Very Satisfied
+458,Full-Time,Dissatisfied
+459,Contract,Dissatisfied
+460,Full-Time,Dissatisfied
+461,Freelance,Satisfied
+462,Full-Time,Neutral
+463,Part-Time,Satisfied
+464,Freelance,Very Satisfied
+465,Part-Time,Very Dissatisfied
+466,Full-Time,Satisfied
+467,Full-Time,Satisfied
+468,Full-Time,Neutral
+469,Freelance,Neutral
+470,Full-Time,Satisfied
+471,Full-Time,Satisfied
+472,Part-Time,Neutral
+473,Contract,Very Satisfied
+474,Full-Time,Satisfied
+475,Full-Time,Very Satisfied
+476,Freelance,Satisfied
+477,Full-Time,Satisfied
+478,Part-Time,Dissatisfied
+479,Full-Time,Very Satisfied
+480,Full-Time,Very Satisfied
+481,Part-Time,Neutral
+482,Contract,Neutral
+483,Internship,Neutral
+484,Contract,Dissatisfied
+485,Contract,Neutral
+486,Contract,Neutral
+487,Contract,Neutral
+488,Freelance,Very Satisfied
+489,Freelance,Very Satisfied
+490,Full-Time,Satisfied
+491,Part-Time,Very Satisfied
+492,Full-Time,Satisfied
+493,Part-Time,Neutral
+494,Freelance,Neutral
+495,Internship,Very Satisfied
+496,Contract,Very Satisfied
+497,Full-Time,Very Dissatisfied
+498,Contract,Neutral
+499,Full-Time,Very Satisfied
+500,Contract,Very Satisfied
+501,Full-Time,Neutral
+502,Full-Time,Satisfied
+503,Contract,Satisfied
+504,Full-Time,Satisfied
+505,Part-Time,Neutral
+506,Contract,Very Satisfied
+507,Full-Time,Satisfied
+508,Internship,Dissatisfied
+509,Full-Time,Satisfied
+510,Full-Time,Neutral
+511,Part-Time,Neutral
+512,Contract,Very Satisfied
+513,Part-Time,Very Dissatisfied
+514,Full-Time,Neutral
+515,Internship,Dissatisfied
+516,Full-Time,Satisfied
+517,Contract,Very Satisfied
+518,Full-Time,Neutral
+519,Full-Time,Neutral
+520,Freelance,Very Satisfied
+521,Freelance,Very Satisfied
+522,Part-Time,Very Satisfied
+523,Internship,Satisfied
+524,Contract,Very Satisfied
+525,Full-Time,Satisfied
+526,Freelance,Satisfied
+527,Full-Time,Very Satisfied
+528,Full-Time,Satisfied
+529,Part-Time,Very Dissatisfied
+530,Contract,Satisfied
+531,Freelance,Neutral
+532,Part-Time,Satisfied
+533,Full-Time,Neutral
+534,Full-Time,Very Dissatisfied
+535,Contract,Satisfied
+536,Full-Time,Satisfied
+537,Full-Time,Neutral
+538,Full-Time,Satisfied
+539,Part-Time,Dissatisfied
+540,Full-Time,Neutral
+541,Internship,Dissatisfied
+542,Contract,Very Satisfied
+543,Freelance,Very Satisfied
+544,Full-Time,Neutral
+545,Full-Time,Very Satisfied
+546,Full-Time,Satisfied
+547,Freelance,Neutral
+548,Contract,Dissatisfied
+549,Part-Time,Dissatisfied
+550,Contract,Very Satisfied
+551,Part-Time,Satisfied
+552,Contract,Satisfied
+553,Part-Time,Very Satisfied
+554,Full-Time,Dissatisfied
+555,Freelance,Neutral
+556,Freelance,Very Satisfied
+557,Full-Time,Satisfied
+558,Contract,Neutral
+559,Full-Time,Very Satisfied
+560,Freelance,Neutral
+561,Part-Time,Very Satisfied
+562,Internship,Neutral
+563,Full-Time,Satisfied
+564,Full-Time,Very Satisfied
+565,Part-Time,Dissatisfied
+566,Part-Time,Dissatisfied
+567,Contract,Satisfied
+568,Internship,Neutral
+569,Full-Time,Satisfied
+570,Internship,Very Dissatisfied
+571,Full-Time,Neutral
+572,Freelance,Neutral
+573,Full-Time,Very Satisfied
+574,Full-Time,Satisfied
+575,Full-Time,Satisfied
+576,Freelance,Satisfied
+577,Part-Time,Satisfied
+578,Full-Time,Very Satisfied
+579,Internship,Dissatisfied
+580,Full-Time,Dissatisfied
+581,Internship,Very Satisfied
+582,Full-Time,Neutral
+583,Part-Time,Satisfied
+584,Contract,Neutral
+585,Internship,Very Dissatisfied
+586,Full-Time,Satisfied
+587,Internship,Dissatisfied
+588,Full-Time,Very Dissatisfied
+589,Freelance,Neutral
+590,Full-Time,Satisfied
+591,Freelance,Very Satisfied
+592,Full-Time,Dissatisfied
+593,Part-Time,Satisfied
+594,Part-Time,Dissatisfied
+595,Full-Time,Very Satisfied
+596,Contract,Neutral
+597,Part-Time,Very Satisfied
+598,Part-Time,Satisfied
+599,Full-Time,Dissatisfied
+600,Freelance,Satisfied
+601,Freelance,Neutral
+602,Full-Time,Neutral
+603,Part-Time,Neutral
+604,Full-Time,Neutral
+605,Freelance,Dissatisfied
+606,Full-Time,Neutral
+607,Full-Time,Satisfied
+608,Contract,Dissatisfied
+609,Internship,Neutral
+610,Part-Time,Very Satisfied
+611,Freelance,Dissatisfied
+612,Full-Time,Satisfied
+613,Full-Time,Satisfied
+614,Full-Time,Neutral
+615,Full-Time,Satisfied
+616,Freelance,Neutral
+617,Full-Time,Very Satisfied
+618,Full-Time,Dissatisfied
+619,Freelance,Dissatisfied
+620,Contract,Satisfied
+621,Internship,Dissatisfied
+622,Full-Time,Satisfied
+623,Full-Time,Satisfied
+624,Part-Time,Neutral
+625,Full-Time,Very Satisfied
+626,Full-Time,Very Satisfied
+627,Contract,Dissatisfied
+628,Contract,Dissatisfied
+629,Freelance,Dissatisfied
+630,Full-Time,Very Satisfied
+631,Full-Time,Dissatisfied
+632,Full-Time,Very Satisfied
+633,Internship,Very Dissatisfied
+634,Part-Time,Very Satisfied
+635,Contract,Satisfied
+636,Full-Time,Satisfied
+637,Full-Time,Satisfied
+638,Full-Time,Very Satisfied
+639,Part-Time,Satisfied
+640,Full-Time,Neutral
+641,Full-Time,Very Satisfied
+642,Internship,Neutral
+643,Freelance,Very Satisfied
+644,Full-Time,Neutral
+645,Full-Time,Satisfied
+646,Contract,Dissatisfied
+647,Part-Time,Dissatisfied
+648,Full-Time,Very Satisfied
+649,Full-Time,Satisfied
+650,Full-Time,Neutral
+651,Contract,Very Dissatisfied
+652,Freelance,Neutral
+653,Full-Time,Satisfied
+654,Contract,Very Satisfied
+655,Full-Time,Very Satisfied
+656,Full-Time,Satisfied
+657,Contract,Very Dissatisfied
+658,Full-Time,Satisfied
+659,Freelance,Satisfied
+660,Full-Time,Satisfied
+661,Freelance,Neutral
+662,Full-Time,Neutral
+663,Full-Time,Very Satisfied
+664,Internship,Satisfied
+665,Freelance,Very Satisfied
+666,Internship,Neutral
+667,Full-Time,Satisfied
+668,Full-Time,Satisfied
+669,Contract,Neutral
+670,Part-Time,Satisfied
+671,Contract,Very Satisfied
+672,Part-Time,Very Satisfied
+673,Freelance,Satisfied
+674,Part-Time,Dissatisfied
+675,Contract,Satisfied
+676,Full-Time,Very Satisfied
+677,Contract,Very Dissatisfied
+678,Internship,Very Dissatisfied
+679,Part-Time,Neutral
+680,Full-Time,Satisfied
+681,Part-Time,Dissatisfied
+682,Part-Time,Satisfied
+683,Freelance,Neutral
+684,Full-Time,Very Satisfied
+685,Full-Time,Satisfied
+686,Full-Time,Very Dissatisfied
+687,Freelance,Very Satisfied
+688,Full-Time,Satisfied
+689,Full-Time,Satisfied
+690,Freelance,Neutral
+691,Internship,Dissatisfied
+692,Full-Time,Neutral
+693,Full-Time,Dissatisfied
+694,Freelance,Neutral
+695,Full-Time,Satisfied
+696,Contract,Satisfied
+697,Internship,Very Satisfied
+698,Contract,Very Satisfied
+699,Contract,Dissatisfied
+700,Freelance,Satisfied
+701,Contract,Neutral
+702,Contract,Satisfied
+703,Part-Time,Satisfied
+704,Contract,Satisfied
+705,Full-Time,Very Dissatisfied
+706,Full-Time,Neutral
+707,Contract,Dissatisfied
+708,Full-Time,Neutral
+709,Contract,Very Dissatisfied
+710,Contract,Dissatisfied
+711,Contract,Neutral
+712,Part-Time,Satisfied
+713,Internship,Neutral
+714,Full-Time,Very Dissatisfied
+715,Contract,Neutral
+716,Freelance,Very Satisfied
+717,Part-Time,Neutral
+718,Full-Time,Satisfied
+719,Full-Time,Satisfied
+720,Full-Time,Satisfied
+721,Contract,Very Dissatisfied
+722,Full-Time,Satisfied
+723,Full-Time,Satisfied
+724,Full-Time,Neutral
+725,Full-Time,Satisfied
+726,Full-Time,Very Dissatisfied
+727,Contract,Neutral
+728,Full-Time,Satisfied
+729,Contract,Dissatisfied
+730,Freelance,Satisfied
+731,Full-Time,Neutral
+732,Full-Time,Dissatisfied
+733,Contract,Satisfied
+734,Contract,Satisfied
+735,Full-Time,Satisfied
+736,Part-Time,Very Dissatisfied
+737,Full-Time,Satisfied
+738,Full-Time,Dissatisfied
+739,Full-Time,Neutral
+740,Full-Time,Dissatisfied
+741,Full-Time,Very Satisfied
+742,Full-Time,Satisfied
+743,Part-Time,Dissatisfied
+744,Freelance,Dissatisfied
+745,Full-Time,Satisfied
+746,Part-Time,Satisfied
+747,Full-Time,Neutral
+748,Part-Time,Satisfied
+749,Freelance,Satisfied
+750,Full-Time,Satisfied
+751,Part-Time,Satisfied
+752,Full-Time,Very Satisfied
+753,Contract,Satisfied
+754,Full-Time,Very Dissatisfied
+755,Freelance,Satisfied
+756,Contract,Satisfied
+757,Contract,Dissatisfied
+758,Freelance,Neutral
+759,Full-Time,Very Satisfied
+760,Full-Time,Satisfied
+761,Full-Time,Very Satisfied
+762,Full-Time,Very Satisfied
+763,Full-Time,Very Dissatisfied
+764,Part-Time,Dissatisfied
+765,Contract,Neutral
+766,Full-Time,Satisfied
+767,Contract,Dissatisfied
+768,Part-Time,Neutral
+769,Part-Time,Neutral
+770,Full-Time,Very Satisfied
+771,Full-Time,Very Satisfied
+772,Full-Time,Satisfied
+773,Contract,Dissatisfied
+774,Freelance,Neutral
+775,Freelance,Very Satisfied
+776,Full-Time,Satisfied
+777,Full-Time,Satisfied
+778,Full-Time,Very Satisfied
+779,Freelance,Satisfied
+780,Full-Time,Very Satisfied
+781,Contract,Very Satisfied
+782,Full-Time,Very Satisfied
+783,Full-Time,Neutral
+784,Freelance,Very Satisfied
+785,Full-Time,Satisfied
+786,Freelance,Very Satisfied
+787,Freelance,Very Satisfied
+788,Full-Time,Neutral
+789,Full-Time,Very Dissatisfied
+790,Full-Time,Satisfied
+791,Full-Time,Satisfied
+792,Part-Time,Satisfied
+793,Part-Time,Neutral
+794,Full-Time,Dissatisfied
+795,Contract,Dissatisfied
+796,Internship,Neutral
+797,Full-Time,Neutral
+798,Full-Time,Dissatisfied
+799,Part-Time,Neutral
+800,Full-Time,Satisfied
+801,Part-Time,Very Satisfied
+802,Full-Time,Satisfied
+803,Freelance,Satisfied
+804,Contract,Very Dissatisfied
+805,Full-Time,Satisfied
+806,Contract,Neutral
+807,Part-Time,Satisfied
+808,Contract,Neutral
+809,Part-Time,Dissatisfied
+810,Full-Time,Satisfied
+811,Freelance,Very Satisfied
+812,Full-Time,Satisfied
+813,Full-Time,Dissatisfied
+814,Freelance,Very Satisfied
+815,Full-Time,Dissatisfied
+816,Contract,Very Dissatisfied
+817,Full-Time,Neutral
+818,Part-Time,Dissatisfied
+819,Full-Time,Dissatisfied
+820,Freelance,Satisfied
+821,Full-Time,Satisfied
+822,Freelance,Satisfied
+823,Contract,Satisfied
+824,Contract,Satisfied
+825,Contract,Satisfied
+826,Contract,Very Dissatisfied
+827,Full-Time,Neutral
+828,Full-Time,Satisfied
+829,Contract,Very Dissatisfied
+830,Contract,Satisfied
+831,Full-Time,Satisfied
+832,Contract,Neutral
+833,Full-Time,Neutral
+834,Full-Time,Very Satisfied
+835,Full-Time,Neutral
+836,Contract,Neutral
+837,Full-Time,Neutral
+838,Internship,Dissatisfied
+839,Full-Time,Satisfied
+840,Full-Time,Very Satisfied
+841,Full-Time,Satisfied
+842,Freelance,Very Satisfied
+843,Internship,Dissatisfied
+844,Contract,Neutral
+845,Full-Time,Satisfied
+846,Internship,Satisfied
+847,Contract,Satisfied
+848,Internship,Very Dissatisfied
+849,Freelance,Very Satisfied
+850,Full-Time,Neutral
+851,Full-Time,Dissatisfied
+852,Full-Time,Satisfied
+853,Full-Time,Neutral
+854,Part-Time,Satisfied
+855,Full-Time,Satisfied
+856,Full-Time,Satisfied
+857,Contract,Neutral
+858,Full-Time,Very Satisfied
+859,Freelance,Satisfied
+860,Freelance,Satisfied
+861,Internship,Neutral
+862,Contract,Very Satisfied
+863,Freelance,Satisfied
+864,Full-Time,Satisfied
+865,Freelance,Neutral
+866,Full-Time,Very Dissatisfied
+867,Part-Time,Satisfied
+868,Part-Time,Neutral
+869,Internship,Neutral
+870,Full-Time,Satisfied
+871,Full-Time,Satisfied
+872,Full-Time,Satisfied
+873,Full-Time,Satisfied
+874,Full-Time,Satisfied
+875,Full-Time,Very Satisfied
+876,Full-Time,Very Satisfied
+877,Full-Time,Satisfied
+878,Full-Time,Satisfied
+879,Contract,Dissatisfied
+880,Freelance,Satisfied
+881,Part-Time,Satisfied
+882,Full-Time,Satisfied
+883,Contract,Dissatisfied
+884,Full-Time,Very Satisfied
+885,Full-Time,Neutral
+886,Full-Time,Satisfied
+887,Full-Time,Neutral
+888,Freelance,Satisfied
+889,Freelance,Satisfied
+890,Full-Time,Satisfied
+891,Freelance,Satisfied
+892,Part-Time,Satisfied
+893,Part-Time,Neutral
+894,Full-Time,Neutral
+895,Internship,Neutral
+896,Freelance,Satisfied
+897,Full-Time,Satisfied
+898,Internship,Very Dissatisfied
+899,Full-Time,Satisfied
+900,Full-Time,Satisfied
+901,Full-Time,Neutral
+902,Freelance,Neutral
+903,Contract,Neutral
+904,Part-Time,Satisfied
+905,Full-Time,Satisfied
+906,Part-Time,Very Dissatisfied
+907,Freelance,Neutral
+908,Internship,Neutral
+909,Part-Time,Neutral
+910,Full-Time,Satisfied
+911,Internship,Neutral
+912,Full-Time,Satisfied
+913,Contract,Satisfied
+914,Contract,Very Satisfied
+915,Part-Time,Satisfied
+916,Full-Time,Neutral
+917,Full-Time,Neutral
+918,Part-Time,Satisfied
+919,Contract,Neutral
+920,Full-Time,Very Satisfied
+921,Contract,Neutral
+922,Freelance,Satisfied
+923,Full-Time,Very Satisfied
+924,Full-Time,Satisfied
+925,Full-Time,Satisfied
+926,Full-Time,Dissatisfied
+927,Full-Time,Satisfied
+928,Full-Time,Neutral
+929,Contract,Very Satisfied
+930,Full-Time,Satisfied
+931,Full-Time,Neutral
+932,Full-Time,Very Satisfied
+933,Contract,Very Satisfied
+934,Freelance,Dissatisfied
+935,Full-Time,Satisfied
+936,Full-Time,Very Satisfied
+937,Contract,Satisfied
+938,Full-Time,Satisfied
+939,Full-Time,Satisfied
+940,Freelance,Satisfied
+941,Contract,Very Dissatisfied
+942,Full-Time,Neutral
+943,Freelance,Very Satisfied
+944,Part-Time,Satisfied
+945,Contract,Neutral
+946,Full-Time,Very Satisfied
+947,Full-Time,Neutral
+948,Full-Time,Satisfied
+949,Freelance,Very Satisfied
+950,Internship,Dissatisfied
+951,Part-Time,Very Satisfied
+952,Full-Time,Very Satisfied
+953,Freelance,Neutral
+954,Full-Time,Satisfied
+955,Full-Time,Satisfied
+956,Full-Time,Neutral
+957,Part-Time,Satisfied
+958,Freelance,Satisfied
+959,Part-Time,Satisfied
+960,Contract,Neutral
+961,Full-Time,Satisfied
+962,Contract,Satisfied
+963,Full-Time,Neutral
+964,Internship,Dissatisfied
+965,Full-Time,Very Dissatisfied
+966,Internship,Very Dissatisfied
+967,Part-Time,Satisfied
+968,Freelance,Very Satisfied
+969,Internship,Neutral
+970,Contract,Very Dissatisfied
+971,Part-Time,Satisfied
+972,Freelance,Neutral
+973,Full-Time,Very Satisfied
+974,Contract,Satisfied
+975,Full-Time,Very Satisfied
+976,Full-Time,Satisfied
+977,Contract,Dissatisfied
+978,Full-Time,Satisfied
+979,Part-Time,Neutral
+980,Contract,Satisfied
+981,Freelance,Satisfied
+982,Full-Time,Satisfied
+983,Freelance,Very Satisfied
+984,Full-Time,Neutral
+985,Contract,Very Satisfied
+986,Part-Time,Dissatisfied
+987,Freelance,Very Satisfied
+988,Full-Time,Satisfied
+989,Full-Time,Satisfied
+990,Part-Time,Dissatisfied
+991,Full-Time,Satisfied
+992,Full-Time,Satisfied
+993,Freelance,Neutral
+994,Full-Time,Satisfied
+995,Part-Time,Neutral
+996,Contract,Satisfied
+997,Full-Time,Very Satisfied
+998,Freelance,Neutral
+999,Freelance,Neutral
+1000,Full-Time,Satisfied
+1001,Freelance,Neutral
+1002,Full-Time,Very Satisfied
+1003,Full-Time,Satisfied
+1004,Freelance,Satisfied
+1005,Full-Time,Satisfied
+1006,Contract,Satisfied
+1007,Part-Time,Dissatisfied
+1008,Contract,Neutral
+1009,Freelance,Very Satisfied
+1010,Contract,Satisfied
+1011,Part-Time,Very Dissatisfied
+1012,Full-Time,Neutral
+1013,Internship,Very Satisfied
+1014,Part-Time,Neutral
+1015,Contract,Neutral
+1016,Full-Time,Very Satisfied
+1017,Internship,Satisfied
+1018,Full-Time,Dissatisfied
+1019,Part-Time,Dissatisfied
+1020,Full-Time,Dissatisfied
+1021,Full-Time,Satisfied
+1022,Full-Time,Very Satisfied
+1023,Full-Time,Neutral
+1024,Full-Time,Satisfied
+1025,Part-Time,Very Satisfied
+1026,Part-Time,Neutral
+1027,Full-Time,Very Satisfied
+1028,Freelance,Satisfied
+1029,Part-Time,Neutral
+1030,Internship,Dissatisfied
+1031,Freelance,Neutral
+1032,Freelance,Very Dissatisfied
+1033,Contract,Neutral
+1034,Freelance,Satisfied
+1035,Internship,Dissatisfied
+1036,Part-Time,Satisfied
+1037,Full-Time,Very Satisfied
+1038,Internship,Neutral
+1039,Freelance,Neutral
+1040,Contract,Neutral
+1041,Full-Time,Very Satisfied
+1042,Full-Time,Satisfied
+1043,Part-Time,Neutral
+1044,Full-Time,Satisfied
+1045,Full-Time,Dissatisfied
+1046,Full-Time,Very Satisfied
+1047,Freelance,Dissatisfied
+1048,Full-Time,Very Satisfied
+1049,Full-Time,Very Satisfied
+1050,Freelance,Neutral
+1051,Freelance,Very Satisfied
+1052,Internship,Dissatisfied
+1053,Freelance,Neutral
+1054,Full-Time,Neutral
+1055,Full-Time,Very Satisfied
+1056,Full-Time,Very Satisfied
+1057,Internship,Satisfied
+1058,Internship,Neutral
+1059,Full-Time,Satisfied
+1060,Freelance,Satisfied
+1061,Part-Time,Satisfied
+1062,Part-Time,Very Dissatisfied
+1063,Full-Time,Neutral
+1064,Full-Time,Very Satisfied
+1065,Contract,Satisfied
+1066,Internship,Dissatisfied
+1067,Part-Time,Very Dissatisfied
+1068,Full-Time,Satisfied
+1069,Full-Time,Neutral
+1070,Contract,Satisfied
+1071,Contract,Very Dissatisfied
+1072,Full-Time,Satisfied
+1073,Contract,Very Satisfied
+1074,Full-Time,Satisfied
+1075,Full-Time,Very Dissatisfied
+1076,Part-Time,Dissatisfied
+1077,Full-Time,Very Satisfied
+1078,Freelance,Satisfied
+1079,Internship,Dissatisfied
+1080,Contract,Satisfied
+1081,Full-Time,Dissatisfied
+1082,Full-Time,Satisfied
+1083,Full-Time,Very Satisfied
+1084,Contract,Neutral
+1085,Full-Time,Neutral
+1086,Part-Time,Neutral
+1087,Part-Time,Very Dissatisfied
+1088,Full-Time,Very Satisfied
+1089,Full-Time,Very Satisfied
+1090,Part-Time,Neutral
+1091,Full-Time,Very Satisfied
+1092,Part-Time,Satisfied
+1093,Full-Time,Neutral
+1094,Full-Time,Very Satisfied
+1095,Full-Time,Satisfied
+1096,Full-Time,Dissatisfied
+1097,Freelance,Satisfied
+1098,Freelance,Neutral
+1099,Contract,Satisfied
+1100,Full-Time,Very Satisfied
+1101,Freelance,Very Satisfied
+1102,Full-Time,Satisfied
+1103,Freelance,Very Satisfied
+1104,Part-Time,Satisfied
+1105,Freelance,Neutral
+1106,Freelance,Satisfied
+1107,Part-Time,Neutral
+1108,Part-Time,Neutral
+1109,Full-Time,Neutral
+1110,Full-Time,Neutral
+1111,Contract,Very Satisfied
+1112,Contract,Dissatisfied
+1113,Full-Time,Very Satisfied
+1114,Contract,Satisfied
+1115,Freelance,Very Dissatisfied
+1116,Contract,Neutral
+1117,Internship,Very Satisfied
+1118,Full-Time,Very Satisfied
+1119,Full-Time,Very Satisfied
+1120,Contract,Dissatisfied
+1121,Part-Time,Neutral
+1122,Full-Time,Dissatisfied
+1123,Internship,Satisfied
+1124,Full-Time,Neutral
+1125,Full-Time,Very Satisfied
+1126,Contract,Very Dissatisfied
+1127,Full-Time,Very Satisfied
+1128,Full-Time,Very Satisfied
+1129,Contract,Dissatisfied
+1130,Full-Time,Satisfied
+1131,Full-Time,Very Satisfied
+1132,Full-Time,Very Satisfied
+1133,Full-Time,Satisfied
+1134,Full-Time,Very Satisfied
+1135,Full-Time,Very Satisfied
+1136,Part-Time,Neutral
+1137,Internship,Neutral
+1138,Full-Time,Neutral
+1139,Internship,Very Satisfied
+1140,Full-Time,Very Satisfied
+1141,Full-Time,Satisfied
+1142,Full-Time,Satisfied
+1143,Contract,Dissatisfied
+1144,Freelance,Very Dissatisfied
+1145,Full-Time,Very Dissatisfied
+1146,Freelance,Neutral
+1147,Full-Time,Satisfied
+1148,Contract,Neutral
+1149,Contract,Very Satisfied
+1150,Contract,Very Satisfied
+1151,Internship,Satisfied
+1152,Contract,Satisfied
+1153,Full-Time,Very Satisfied
+1154,Freelance,Satisfied
+1155,Full-Time,Neutral
+1156,Freelance,Very Satisfied
+1157,Contract,Very Satisfied
+1158,Full-Time,Very Satisfied
+1159,Internship,Very Dissatisfied
+1160,Internship,Very Satisfied
+1161,Full-Time,Satisfied
+1162,Freelance,Neutral
+1163,Freelance,Dissatisfied
+1164,Part-Time,Satisfied
+1165,Part-Time,Satisfied
+1166,Full-Time,Satisfied
+1167,Part-Time,Dissatisfied
+1168,Internship,Very Dissatisfied
+1169,Full-Time,Neutral
+1170,Part-Time,Very Dissatisfied
+1171,Contract,Very Satisfied
+1172,Part-Time,Satisfied
+1173,Part-Time,Very Dissatisfied
+1174,Freelance,Dissatisfied
+1175,Full-Time,Very Satisfied
+1176,Full-Time,Satisfied
+1177,Full-Time,Very Satisfied
+1178,Internship,Satisfied
+1179,Full-Time,Satisfied
+1180,Contract,Satisfied
+1181,Part-Time,Very Dissatisfied
+1182,Contract,Very Satisfied
+1183,Part-Time,Dissatisfied
+1184,Full-Time,Neutral
+1185,Full-Time,Satisfied
+1186,Contract,Satisfied
+1187,Full-Time,Neutral
+1188,Contract,Very Dissatisfied
+1189,Full-Time,Very Dissatisfied
+1190,Contract,Satisfied
+1191,Freelance,Satisfied
+1192,Full-Time,Satisfied
+1193,Full-Time,Very Satisfied
+1194,Internship,Satisfied
+1195,Freelance,Very Satisfied
+1196,Part-Time,Neutral
+1197,Freelance,Satisfied
+1198,Part-Time,Neutral
+1199,Internship,Dissatisfied
+1200,Full-Time,Satisfied
+1201,Full-Time,Satisfied
+1202,Full-Time,Very Satisfied
+1203,Freelance,Very Satisfied
+1204,Freelance,Very Satisfied
+1205,Full-Time,Dissatisfied
+1206,Part-Time,Dissatisfied
+1207,Part-Time,Neutral
+1208,Full-Time,Very Dissatisfied
+1209,Full-Time,Satisfied
+1210,Full-Time,Very Satisfied
+1211,Part-Time,Very Satisfied
+1212,Freelance,Very Satisfied
+1213,Contract,Satisfied
+1214,Full-Time,Satisfied
+1215,Full-Time,Neutral
+1216,Freelance,Dissatisfied
+1217,Freelance,Very Satisfied
+1218,Part-Time,Dissatisfied
+1219,Full-Time,Satisfied
+1220,Full-Time,Satisfied
+1221,Full-Time,Satisfied
+1222,Full-Time,Neutral
+1223,Full-Time,Dissatisfied
+1224,Full-Time,Satisfied
+1225,Full-Time,Satisfied
+1226,Full-Time,Satisfied
+1227,Full-Time,Dissatisfied
+1228,Full-Time,Neutral
+1229,Freelance,Dissatisfied
+1230,Full-Time,Very Satisfied
+1231,Contract,Very Satisfied
+1232,Contract,Satisfied
+1233,Contract,Satisfied
+1234,Freelance,Dissatisfied
+1235,Full-Time,Very Satisfied
+1236,Internship,Neutral
+1237,Part-Time,Very Satisfied
+1238,Contract,Dissatisfied
+1239,Internship,Very Dissatisfied
+1240,Contract,Neutral
+1241,Full-Time,Satisfied
+1242,Freelance,Satisfied
+1243,Full-Time,Very Satisfied
+1244,Full-Time,Satisfied
+1245,Full-Time,Satisfied
+1246,Contract,Very Satisfied
+1247,Internship,Neutral
+1248,Contract,Satisfied
+1249,Freelance,Dissatisfied
+1250,Internship,Neutral
+1251,Full-Time,Satisfied
+1252,Full-Time,Dissatisfied
+1253,Full-Time,Dissatisfied
+1254,Contract,Very Satisfied
+1255,Full-Time,Satisfied
+1256,Part-Time,Very Satisfied
+1257,Full-Time,Dissatisfied
+1258,Full-Time,Dissatisfied
+1259,Part-Time,Very Dissatisfied
+1260,Internship,Dissatisfied
+1261,Full-Time,Very Satisfied
+1262,Freelance,Neutral
+1263,Contract,Neutral
+1264,Contract,Neutral
+1265,Part-Time,Very Dissatisfied
+1266,Freelance,Satisfied
+1267,Full-Time,Satisfied
+1268,Full-Time,Very Satisfied
+1269,Contract,Very Satisfied
+1270,Part-Time,Satisfied
+1271,Full-Time,Dissatisfied
+1272,Full-Time,Satisfied
+1273,Full-Time,Very Satisfied
+1274,Contract,Very Dissatisfied
+1275,Contract,Neutral
+1276,Full-Time,Satisfied
+1277,Part-Time,Satisfied
+1278,Full-Time,Satisfied
+1279,Internship,Satisfied
+1280,Freelance,Very Satisfied
+1281,Internship,Very Satisfied
+1282,Contract,Very Satisfied
+1283,Full-Time,Very Satisfied
+1284,Full-Time,Satisfied
+1285,Internship,Very Dissatisfied
+1286,Contract,Very Dissatisfied
+1287,Full-Time,Satisfied
+1288,Full-Time,Neutral
+1289,Full-Time,Satisfied
+1290,Freelance,Very Satisfied
+1291,Freelance,Neutral
+1292,Contract,Satisfied
+1293,Internship,Neutral
+1294,Freelance,Satisfied
+1295,Full-Time,Satisfied
+1296,Internship,Dissatisfied
+1297,Part-Time,Neutral
+1298,Full-Time,Dissatisfied
+1299,Full-Time,Neutral
+1300,Contract,Satisfied
+1301,Full-Time,Dissatisfied
+1302,Freelance,Satisfied
+1303,Full-Time,Very Satisfied
+1304,Full-Time,Dissatisfied
+1305,Full-Time,Satisfied
+1306,Full-Time,Satisfied
+1307,Part-Time,Satisfied
+1308,Contract,Neutral
+1309,Contract,Very Satisfied
+1310,Freelance,Very Satisfied
+1311,Freelance,Satisfied
+1312,Full-Time,Very Satisfied
+1313,Freelance,Very Dissatisfied
+1314,Full-Time,Dissatisfied
+1315,Internship,Neutral
+1316,Freelance,Dissatisfied
+1317,Full-Time,Satisfied
+1318,Freelance,Satisfied
+1319,Full-Time,Neutral
+1320,Full-Time,Satisfied
+1321,Full-Time,Neutral
+1322,Full-Time,Dissatisfied
+1323,Freelance,Satisfied
+1324,Full-Time,Satisfied
+1325,Contract,Very Dissatisfied
+1326,Full-Time,Very Satisfied
+1327,Full-Time,Neutral
+1328,Part-Time,Very Satisfied
+1329,Contract,Dissatisfied
+1330,Freelance,Very Satisfied
+1331,Full-Time,Dissatisfied
+1332,Part-Time,Satisfied
+1333,Internship,Satisfied
+1334,Internship,Satisfied
+1335,Full-Time,Satisfied
+1336,Full-Time,Neutral
+1337,Freelance,Satisfied
+1338,Full-Time,Neutral
+1339,Part-Time,Satisfied
+1340,Full-Time,Very Dissatisfied
+1341,Freelance,Satisfied
+1342,Freelance,Satisfied
+1343,Part-Time,Neutral
+1344,Full-Time,Very Satisfied
+1345,Full-Time,Very Satisfied
+1346,Full-Time,Very Satisfied
+1347,Part-Time,Neutral
+1348,Part-Time,Dissatisfied
+1349,Internship,Satisfied
+1350,Freelance,Neutral
+1351,Full-Time,Satisfied
+1352,Full-Time,Satisfied
+1353,Full-Time,Dissatisfied
+1354,Freelance,Neutral
+1355,Full-Time,Dissatisfied
+1356,Freelance,Very Satisfied
+1357,Part-Time,Neutral
+1358,Freelance,Satisfied
+1359,Full-Time,Neutral
+1360,Part-Time,Very Satisfied
+1361,Contract,Satisfied
+1362,Internship,Satisfied
+1363,Internship,Very Satisfied
+1364,Full-Time,Neutral
+1365,Part-Time,Very Satisfied
+1366,Full-Time,Dissatisfied
+1367,Full-Time,Very Satisfied
+1368,Part-Time,Dissatisfied
+1369,Contract,Neutral
+1370,Freelance,Dissatisfied
+1371,Full-Time,Very Satisfied
+1372,Full-Time,Neutral
+1373,Full-Time,Satisfied
+1374,Full-Time,Satisfied
+1375,Internship,Satisfied
+1376,Freelance,Satisfied
+1377,Full-Time,Neutral
+1378,Full-Time,Satisfied
+1379,Internship,Dissatisfied
+1380,Internship,Very Satisfied
+1381,Internship,Neutral
+1382,Full-Time,Satisfied
+1383,Full-Time,Very Satisfied
+1384,Contract,Dissatisfied
+1385,Part-Time,Satisfied
+1386,Freelance,Very Satisfied
+1387,Contract,Dissatisfied
+1388,Internship,Very Dissatisfied
+1389,Full-Time,Satisfied
+1390,Full-Time,Satisfied
+1391,Freelance,Satisfied
+1392,Full-Time,Satisfied
+1393,Internship,Very Satisfied
+1394,Freelance,Neutral
+1395,Full-Time,Neutral
+1396,Freelance,Neutral
+1397,Part-Time,Very Satisfied
+1398,Full-Time,Satisfied
+1399,Part-Time,Satisfied
+1400,Full-Time,Very Satisfied
+1401,Internship,Dissatisfied
+1402,Full-Time,Neutral
+1403,Part-Time,Very Satisfied
+1404,Contract,Neutral
+1405,Full-Time,Dissatisfied
+1406,Freelance,Satisfied
+1407,Internship,Satisfied
+1408,Contract,Very Dissatisfied
+1409,Internship,Neutral
+1410,Contract,Very Satisfied
+1411,Full-Time,Satisfied
+1412,Freelance,Neutral
+1413,Contract,Very Satisfied
+1414,Freelance,Satisfied
+1415,Full-Time,Very Satisfied
+1416,Full-Time,Satisfied
+1417,Freelance,Very Satisfied
+1418,Contract,Neutral
+1419,Full-Time,Very Dissatisfied
+1420,Internship,Neutral
+1421,Full-Time,Neutral
+1422,Full-Time,Satisfied
+1423,Part-Time,Satisfied
+1424,Contract,Satisfied
+1425,Full-Time,Very Satisfied
+1426,Full-Time,Satisfied
+1427,Part-Time,Satisfied
+1428,Contract,Neutral
+1429,Freelance,Satisfied
+1430,Part-Time,Neutral
+1431,Full-Time,Neutral
+1432,Full-Time,Satisfied
+1433,Full-Time,Satisfied
+1434,Contract,Very Satisfied
+1435,Contract,Neutral
+1436,Full-Time,Neutral
+1437,Freelance,Very Satisfied
+1438,Full-Time,Satisfied
+1439,Freelance,Dissatisfied
+1440,Full-Time,Very Satisfied
+1441,Part-Time,Neutral
+1442,Full-Time,Dissatisfied
+1443,Full-Time,Satisfied
+1444,Full-Time,Neutral
+1445,Internship,Dissatisfied
+1446,Internship,Very Satisfied
+1447,Internship,Satisfied
+1448,Contract,Satisfied
+1449,Full-Time,Satisfied
+1450,Full-Time,Satisfied
+1451,Freelance,Satisfied
+1452,Contract,Neutral
+1453,Full-Time,Very Satisfied
+1454,Full-Time,Very Satisfied
+1455,Freelance,Very Satisfied
+1456,Full-Time,Satisfied
+1457,Full-Time,Neutral
+1458,Full-Time,Satisfied
+1459,Part-Time,Very Satisfied
+1460,Freelance,Satisfied
+1461,Full-Time,Satisfied
+1462,Full-Time,Very Dissatisfied
+1463,Freelance,Satisfied
+1464,Full-Time,Very Satisfied
+1465,Full-Time,Satisfied
+1466,Full-Time,Satisfied
+1467,Contract,Neutral
+1468,Full-Time,Very Satisfied
+1469,Freelance,Satisfied
+1470,Contract,Neutral
+1471,Part-Time,Dissatisfied
+1472,Full-Time,Dissatisfied
+1473,Freelance,Satisfied
+1474,Full-Time,Satisfied
+1475,Contract,Neutral
+1476,Freelance,Neutral
+1477,Full-Time,Neutral
+1478,Full-Time,Very Satisfied
+1479,Full-Time,Very Satisfied
+1480,Full-Time,Satisfied
+1481,Full-Time,Dissatisfied
+1482,Full-Time,Satisfied
+1483,Internship,Dissatisfied
+1484,Full-Time,Neutral
+1485,Contract,Neutral
+1486,Contract,Very Dissatisfied
+1487,Full-Time,Satisfied
+1488,Freelance,Very Dissatisfied
+1489,Internship,Neutral
+1490,Freelance,Very Satisfied
+1491,Full-Time,Very Satisfied
+1492,Full-Time,Satisfied
+1493,Full-Time,Satisfied
+1494,Contract,Neutral
+1495,Part-Time,Dissatisfied
+1496,Full-Time,Dissatisfied
+1497,Full-Time,Very Satisfied
+1498,Full-Time,Very Satisfied
+1499,Contract,Satisfied
+1500,Contract,Very Satisfied
+1501,Contract,Neutral
+1502,Full-Time,Very Satisfied
+1503,Part-Time,Very Satisfied
+1504,Part-Time,Dissatisfied
+1505,Full-Time,Satisfied
+1506,Part-Time,Dissatisfied
+1507,Part-Time,Satisfied
+1508,Full-Time,Satisfied
+1509,Contract,Neutral
+1510,Full-Time,Very Satisfied
+1511,Internship,Very Dissatisfied
+1512,Full-Time,Neutral
+1513,Full-Time,Satisfied
+1514,Part-Time,Dissatisfied
+1515,Freelance,Neutral
+1516,Part-Time,Satisfied
+1517,Contract,Neutral
+1518,Contract,Very Satisfied
+1519,Internship,Satisfied
+1520,Full-Time,Satisfied
+1521,Full-Time,Neutral
+1522,Full-Time,Neutral
+1523,Part-Time,Dissatisfied
+1524,Full-Time,Satisfied
+1525,Contract,Neutral
+1526,Contract,Neutral
+1527,Full-Time,Satisfied
+1528,Part-Time,Neutral
+1529,Contract,Satisfied
+1530,Full-Time,Very Satisfied
+1531,Freelance,Satisfied
+1532,Full-Time,Very Satisfied
+1533,Contract,Satisfied
+1534,Full-Time,Very Dissatisfied
+1535,Full-Time,Satisfied
+1536,Contract,Very Satisfied
+1537,Part-Time,Very Satisfied
+1538,Full-Time,Satisfied
+1539,Freelance,Satisfied
+1540,Part-Time,Satisfied
+1541,Full-Time,Neutral
+1542,Full-Time,Neutral
+1543,Contract,Neutral
+1544,Full-Time,Neutral
+1545,Freelance,Satisfied
+1546,Contract,Dissatisfied
+1547,Full-Time,Satisfied
+1548,Full-Time,Neutral
+1549,Freelance,Satisfied
+1550,Full-Time,Satisfied
+1551,Freelance,Satisfied
+1552,Full-Time,Very Satisfied
+1553,Full-Time,Very Satisfied
+1554,Internship,Satisfied
+1555,Full-Time,Satisfied
+1556,Full-Time,Satisfied
+1557,Full-Time,Very Satisfied
+1558,Freelance,Satisfied
+1559,Full-Time,Satisfied
+1560,Internship,Very Dissatisfied
+1561,Internship,Dissatisfied
+1562,Contract,Satisfied
+1563,Contract,Dissatisfied
+1564,Full-Time,Very Dissatisfied
+1565,Full-Time,Satisfied
+1566,Contract,Satisfied
+1567,Internship,Dissatisfied
+1568,Full-Time,Satisfied
+1569,Full-Time,Very Satisfied
+1570,Freelance,Very Satisfied
+1571,Full-Time,Neutral
+1572,Internship,Satisfied
+1573,Full-Time,Very Dissatisfied
+1574,Full-Time,Very Satisfied
+1575,Full-Time,Neutral
+1576,Internship,Dissatisfied
+1577,Full-Time,Very Dissatisfied
+1578,Part-Time,Very Dissatisfied
+1579,Part-Time,Satisfied
+1580,Full-Time,Satisfied
+1581,Part-Time,Neutral
+1582,Full-Time,Satisfied
+1583,Freelance,Satisfied
+1584,Full-Time,Neutral
+1585,Part-Time,Very Dissatisfied
+1586,Contract,Neutral
+1587,Full-Time,Satisfied
+1588,Full-Time,Satisfied
+1589,Internship,Satisfied
+1590,Full-Time,Neutral
+1591,Full-Time,Very Satisfied
+1592,Full-Time,Satisfied
+1593,Full-Time,Dissatisfied
+1594,Internship,Very Satisfied
+1595,Part-Time,Neutral
+1596,Full-Time,Very Satisfied
+1597,Freelance,Neutral
+1598,Full-Time,Very Satisfied
+1599,Full-Time,Dissatisfied
+1600,Contract,Satisfied
+1601,Full-Time,Dissatisfied
+1602,Full-Time,Satisfied
+1603,Full-Time,Dissatisfied
+1604,Internship,Dissatisfied
+1605,Full-Time,Satisfied
+1606,Full-Time,Satisfied
+1607,Full-Time,Satisfied
+1608,Full-Time,Neutral
+1609,Full-Time,Very Satisfied
+1610,Full-Time,Neutral
+1611,Full-Time,Neutral
+1612,Freelance,Very Satisfied
+1613,Full-Time,Satisfied
+1614,Full-Time,Very Satisfied
+1615,Freelance,Satisfied
+1616,Full-Time,Satisfied
+1617,Full-Time,Very Dissatisfied
+1618,Full-Time,Neutral
+1619,Internship,Neutral
+1620,Full-Time,Neutral
+1621,Full-Time,Satisfied
+1622,Full-Time,Very Satisfied
+1623,Full-Time,Very Satisfied
+1624,Internship,Satisfied
+1625,Contract,Dissatisfied
+1626,Internship,Neutral
+1627,Part-Time,Satisfied
+1628,Internship,Satisfied
+1629,Contract,Very Satisfied
+1630,Part-Time,Very Dissatisfied
+1631,Full-Time,Very Satisfied
+1632,Full-Time,Dissatisfied
+1633,Freelance,Dissatisfied
+1634,Contract,Neutral
+1635,Contract,Neutral
+1636,Freelance,Very Satisfied
+1637,Full-Time,Satisfied
+1638,Internship,Very Satisfied
+1639,Full-Time,Neutral
+1640,Full-Time,Satisfied
+1641,Contract,Satisfied
+1642,Part-Time,Neutral
+1643,Part-Time,Very Satisfied
+1644,Contract,Very Satisfied
+1645,Full-Time,Satisfied
+1646,Full-Time,Satisfied
+1647,Full-Time,Satisfied
+1648,Internship,Satisfied
+1649,Full-Time,Very Satisfied
+1650,Internship,Neutral
+1651,Full-Time,Neutral
+1652,Contract,Satisfied
+1653,Freelance,Satisfied
+1654,Full-Time,Satisfied
+1655,Part-Time,Satisfied
+1656,Full-Time,Satisfied
+1657,Full-Time,Neutral
+1658,Full-Time,Dissatisfied
+1659,Full-Time,Satisfied
+1660,Full-Time,Dissatisfied
+1661,Internship,Very Dissatisfied
+1662,Full-Time,Satisfied
+1663,Full-Time,Satisfied
+1664,Full-Time,Satisfied
+1665,Part-Time,Neutral
+1666,Full-Time,Dissatisfied
+1667,Internship,Dissatisfied
+1668,Freelance,Very Dissatisfied
+1669,Full-Time,Satisfied
+1670,Internship,Neutral
+1671,Full-Time,Neutral
+1672,Full-Time,Satisfied
+1673,Full-Time,Satisfied
+1674,Full-Time,Satisfied
+1675,Contract,Neutral
+1676,Full-Time,Satisfied
+1677,Contract,Very Satisfied
+1678,Full-Time,Satisfied
+1679,Part-Time,Very Dissatisfied
+1680,Internship,Satisfied
+1681,Contract,Neutral
+1682,Full-Time,Very Satisfied
+1683,Internship,Satisfied
+1684,Full-Time,Neutral
+1685,Part-Time,Very Satisfied
+1686,Contract,Neutral
+1687,Freelance,Very Satisfied
+1688,Internship,Neutral
+1689,Internship,Neutral
+1690,Part-Time,Very Satisfied
+1691,Freelance,Very Satisfied
+1692,Part-Time,Neutral
+1693,Internship,Very Dissatisfied
+1694,Full-Time,Neutral
+1695,Full-Time,Satisfied
+1696,Full-Time,Satisfied
+1697,Internship,Very Dissatisfied
+1698,Part-Time,Very Dissatisfied
+1699,Freelance,Very Satisfied
+1700,Part-Time,Very Satisfied
+1701,Internship,Dissatisfied
+1702,Full-Time,Satisfied
+1703,Full-Time,Satisfied
+1704,Full-Time,Satisfied
+1705,Full-Time,Satisfied
+1706,Full-Time,Neutral
+1707,Full-Time,Satisfied
+1708,Full-Time,Very Satisfied
+1709,Part-Time,Satisfied
+1710,Full-Time,Satisfied
+1711,Freelance,Very Dissatisfied
+1712,Internship,Satisfied
+1713,Full-Time,Neutral
+1714,Contract,Dissatisfied
+1715,Contract,Dissatisfied
+1716,Full-Time,Satisfied
+1717,Freelance,Dissatisfied
+1718,Contract,Satisfied
+1719,Full-Time,Neutral
+1720,Contract,Neutral
+1721,Contract,Very Satisfied
+1722,Part-Time,Very Dissatisfied
+1723,Full-Time,Satisfied
+1724,Full-Time,Dissatisfied
+1725,Part-Time,Neutral
+1726,Contract,Very Satisfied
+1727,Internship,Neutral
+1728,Part-Time,Neutral
+1729,Contract,Very Satisfied
+1730,Internship,Satisfied
+1731,Part-Time,Satisfied
+1732,Contract,Very Satisfied
+1733,Contract,Neutral
+1734,Full-Time,Satisfied
+1735,Internship,Dissatisfied
+1736,Internship,Dissatisfied
+1737,Full-Time,Satisfied
+1738,Freelance,Very Dissatisfied
+1739,Full-Time,Satisfied
+1740,Contract,Dissatisfied
+1741,Part-Time,Neutral
+1742,Contract,Very Satisfied
+1743,Full-Time,Satisfied
+1744,Part-Time,Very Satisfied
+1745,Part-Time,Very Satisfied
+1746,Full-Time,Satisfied
+1747,Part-Time,Neutral
+1748,Full-Time,Satisfied
+1749,Full-Time,Neutral
+1750,Part-Time,Neutral
+1751,Full-Time,Satisfied
+1752,Freelance,Satisfied
+1753,Full-Time,Satisfied
+1754,Part-Time,Dissatisfied
+1755,Full-Time,Satisfied
+1756,Internship,Very Dissatisfied
+1757,Full-Time,Very Satisfied
+1758,Internship,Dissatisfied
+1759,Full-Time,Very Satisfied
+1760,Full-Time,Satisfied
+1761,Freelance,Very Satisfied
+1762,Internship,Neutral
+1763,Freelance,Satisfied
+1764,Full-Time,Very Satisfied
+1765,Full-Time,Satisfied
+1766,Full-Time,Neutral
+1767,Freelance,Satisfied
+1768,Part-Time,Very Dissatisfied
+1769,Full-Time,Neutral
+1770,Freelance,Satisfied
+1771,Full-Time,Satisfied
+1772,Contract,Satisfied
+1773,Full-Time,Satisfied
+1774,Full-Time,Neutral
+1775,Full-Time,Satisfied
+1776,Full-Time,Neutral
+1777,Part-Time,Very Satisfied
+1778,Part-Time,Satisfied
+1779,Freelance,Very Satisfied
+1780,Full-Time,Satisfied
+1781,Full-Time,Neutral
+1782,Contract,Neutral
+1783,Freelance,Very Satisfied
+1784,Contract,Very Dissatisfied
+1785,Full-Time,Satisfied
+1786,Freelance,Very Satisfied
+1787,Internship,Satisfied
+1788,Full-Time,Dissatisfied
+1789,Full-Time,Neutral
+1790,Full-Time,Neutral
+1791,Part-Time,Dissatisfied
+1792,Full-Time,Satisfied
+1793,Full-Time,Satisfied
+1794,Full-Time,Dissatisfied
+1795,Part-Time,Very Satisfied
+1796,Freelance,Satisfied
+1797,Contract,Satisfied
+1798,Internship,Satisfied
+1799,Part-Time,Neutral
+1800,Full-Time,Neutral
+1801,Internship,Neutral
+1802,Full-Time,Very Satisfied
+1803,Full-Time,Neutral
+1804,Full-Time,Satisfied
+1805,Internship,Very Dissatisfied
+1806,Full-Time,Satisfied
+1807,Freelance,Very Satisfied
+1808,Contract,Dissatisfied
+1809,Contract,Very Satisfied
+1810,Part-Time,Neutral
+1811,Internship,Satisfied
+1812,Full-Time,Very Satisfied
+1813,Full-Time,Satisfied
+1814,Full-Time,Neutral
+1815,Full-Time,Very Dissatisfied
+1816,Contract,Very Dissatisfied
+1817,Full-Time,Satisfied
+1818,Part-Time,Very Dissatisfied
+1819,Full-Time,Very Satisfied
+1820,Full-Time,Satisfied
+1821,Part-Time,Neutral
+1822,Freelance,Very Satisfied
+1823,Contract,Dissatisfied
+1824,Part-Time,Dissatisfied
+1825,Full-Time,Very Satisfied
+1826,Full-Time,Satisfied
+1827,Full-Time,Satisfied
+1828,Part-Time,Neutral
+1829,Part-Time,Satisfied
+1830,Full-Time,Satisfied
+1831,Internship,Dissatisfied
+1832,Full-Time,Satisfied
+1833,Full-Time,Satisfied
+1834,Contract,Very Satisfied
+1835,Full-Time,Very Satisfied
+1836,Full-Time,Satisfied
+1837,Full-Time,Neutral
+1838,Internship,Very Satisfied
+1839,Contract,Dissatisfied
+1840,Internship,Satisfied
+1841,Contract,Satisfied
+1842,Full-Time,Neutral
+1843,Full-Time,Satisfied
+1844,Full-Time,Very Satisfied
+1845,Freelance,Neutral
+1846,Full-Time,Satisfied
+1847,Full-Time,Very Satisfied
+1848,Full-Time,Satisfied
+1849,Full-Time,Very Satisfied
+1850,Full-Time,Neutral
+1851,Full-Time,Very Satisfied
+1852,Full-Time,Neutral
+1853,Freelance,Very Dissatisfied
+1854,Full-Time,Neutral
+1855,Full-Time,Satisfied
+1856,Full-Time,Satisfied
+1857,Full-Time,Satisfied
+1858,Contract,Neutral
+1859,Internship,Satisfied
+1860,Full-Time,Dissatisfied
+1861,Freelance,Satisfied
+1862,Full-Time,Very Satisfied
+1863,Contract,Neutral
+1864,Full-Time,Dissatisfied
+1865,Freelance,Very Dissatisfied
+1866,Full-Time,Very Satisfied
+1867,Full-Time,Very Satisfied
+1868,Internship,Satisfied
+1869,Full-Time,Satisfied
+1870,Full-Time,Satisfied
+1871,Freelance,Satisfied
+1872,Internship,Satisfied
+1873,Full-Time,Very Satisfied
+1874,Full-Time,Very Satisfied
+1875,Full-Time,Satisfied
+1876,Internship,Satisfied
+1877,Full-Time,Neutral
+1878,Internship,Dissatisfied
+1879,Full-Time,Dissatisfied
+1880,Full-Time,Satisfied
+1881,Contract,Satisfied
+1882,Freelance,Satisfied
+1883,Full-Time,Satisfied
+1884,Freelance,Neutral
+1885,Internship,Dissatisfied
+1886,Part-Time,Very Dissatisfied
+1887,Freelance,Very Dissatisfied
+1888,Full-Time,Satisfied
+1889,Full-Time,Satisfied
+1890,Full-Time,Very Satisfied
+1891,Internship,Satisfied
+1892,Full-Time,Neutral
+1893,Freelance,Satisfied
+1894,Full-Time,Neutral
+1895,Full-Time,Neutral
+1896,Full-Time,Neutral
+1897,Freelance,Very Satisfied
+1898,Internship,Dissatisfied
+1899,Full-Time,Satisfied
+1900,Contract,Satisfied
+1901,Internship,Dissatisfied
+1902,Internship,Dissatisfied
+1903,Contract,Neutral
+1904,Full-Time,Neutral
+1905,Full-Time,Satisfied
+1906,Full-Time,Very Satisfied
+1907,Contract,Neutral
+1908,Full-Time,Satisfied
+1909,Full-Time,Very Satisfied
+1910,Freelance,Dissatisfied
+1911,Full-Time,Satisfied
+1912,Contract,Very Satisfied
+1913,Full-Time,Satisfied
+1914,Full-Time,Satisfied
+1915,Full-Time,Very Satisfied
+1916,Full-Time,Neutral
+1917,Full-Time,Satisfied
+1918,Full-Time,Dissatisfied
+1919,Full-Time,Very Satisfied
+1920,Full-Time,Very Satisfied
+1921,Contract,Dissatisfied
+1922,Full-Time,Very Dissatisfied
+1923,Full-Time,Dissatisfied
+1924,Internship,Very Satisfied
+1925,Contract,Very Satisfied
+1926,Part-Time,Satisfied
+1927,Full-Time,Satisfied
+1928,Full-Time,Satisfied
+1929,Full-Time,Very Satisfied
+1930,Freelance,Satisfied
+1931,Part-Time,Neutral
+1932,Full-Time,Dissatisfied
+1933,Contract,Satisfied
+1934,Part-Time,Very Satisfied
+1935,Freelance,Satisfied
+1936,Full-Time,Neutral
+1937,Internship,Neutral
+1938,Full-Time,Satisfied
+1939,Contract,Satisfied
+1940,Full-Time,Satisfied
+1941,Full-Time,Dissatisfied
+1942,Contract,Very Satisfied
+1943,Part-Time,Satisfied
+1944,Contract,Dissatisfied
+1945,Contract,Satisfied
+1946,Full-Time,Neutral
+1947,Full-Time,Satisfied
+1948,Full-Time,Very Satisfied
+1949,Full-Time,Very Dissatisfied
+1950,Full-Time,Neutral
+1951,Full-Time,Neutral
+1952,Freelance,Neutral
+1953,Full-Time,Very Satisfied
+1954,Freelance,Neutral
+1955,Full-Time,Satisfied
+1956,Contract,Neutral
+1957,Full-Time,Neutral
+1958,Full-Time,Dissatisfied
+1959,Freelance,Very Satisfied
+1960,Freelance,Satisfied
+1961,Internship,Satisfied
+1962,Freelance,Satisfied
+1963,Contract,Very Dissatisfied
+1964,Full-Time,Very Satisfied
+1965,Full-Time,Satisfied
+1966,Internship,Neutral
+1967,Full-Time,Neutral
+1968,Contract,Dissatisfied
+1969,Part-Time,Very Dissatisfied
+1970,Contract,Satisfied
+1971,Full-Time,Neutral
+1972,Full-Time,Very Satisfied
+1973,Full-Time,Satisfied
+1974,Internship,Neutral
+1975,Freelance,Neutral
+1976,Internship,Neutral
+1977,Full-Time,Very Satisfied
+1978,Internship,Neutral
+1979,Contract,Satisfied
+1980,Full-Time,Neutral
+1981,Full-Time,Satisfied
+1982,Freelance,Very Satisfied
+1983,Full-Time,Very Dissatisfied
+1984,Full-Time,Very Satisfied
+1985,Part-Time,Satisfied
+1986,Internship,Dissatisfied
+1987,Part-Time,Neutral
+1988,Contract,Satisfied
+1989,Internship,Neutral
+1990,Freelance,Satisfied
+1991,Freelance,Dissatisfied
+1992,Part-Time,Very Satisfied
+1993,Full-Time,Very Satisfied
+1994,Full-Time,Neutral
+1995,Contract,Neutral
+1996,Full-Time,Satisfied
+1997,Contract,Satisfied
+1998,Part-Time,Dissatisfied
+1999,Full-Time,Dissatisfied
+2000,Contract,Very Satisfied
+2001,Part-Time,Very Dissatisfied
+2002,Full-Time,Very Satisfied
+2003,Full-Time,Satisfied
+2004,Contract,Satisfied
+2005,Full-Time,Satisfied
+2006,Part-Time,Satisfied
+2007,Full-Time,Neutral
+2008,Full-Time,Neutral
+2009,Full-Time,Satisfied
+2010,Freelance,Dissatisfied
+2011,Full-Time,Satisfied
+2012,Contract,Very Satisfied
+2013,Freelance,Very Satisfied
+2014,Full-Time,Very Satisfied
+2015,Full-Time,Satisfied
+2016,Part-Time,Very Satisfied
+2017,Contract,Very Satisfied
+2018,Freelance,Dissatisfied
+2019,Full-Time,Satisfied
+2020,Internship,Dissatisfied
+2021,Full-Time,Satisfied
+2022,Full-Time,Satisfied
+2023,Full-Time,Very Satisfied
+2024,Contract,Neutral
+2025,Freelance,Neutral
+2026,Freelance,Satisfied
+2027,Full-Time,Very Satisfied
+2028,Full-Time,Dissatisfied
+2029,Full-Time,Neutral
+2030,Part-Time,Satisfied
+2031,Part-Time,Neutral
+2032,Full-Time,Satisfied
+2033,Freelance,Satisfied
+2034,Contract,Satisfied
+2035,Full-Time,Neutral
+2036,Contract,Very Satisfied
+2037,Full-Time,Very Satisfied
+2038,Full-Time,Neutral
+2039,Contract,Satisfied
+2040,Part-Time,Neutral
+2041,Full-Time,Very Satisfied
+2042,Contract,Dissatisfied
+2043,Freelance,Dissatisfied
+2044,Full-Time,Satisfied
+2045,Full-Time,Satisfied
+2046,Internship,Neutral
+2047,Full-Time,Satisfied
+2048,Freelance,Very Satisfied
+2049,Freelance,Satisfied
+2050,Full-Time,Satisfied
+2051,Freelance,Satisfied
+2052,Part-Time,Satisfied
+2053,Contract,Dissatisfied
+2054,Full-Time,Dissatisfied
+2055,Full-Time,Satisfied
+2056,Full-Time,Neutral
+2057,Full-Time,Neutral
+2058,Full-Time,Neutral
+2059,Freelance,Neutral
+2060,Contract,Satisfied
+2061,Contract,Satisfied
+2062,Full-Time,Dissatisfied
+2063,Part-Time,Neutral
+2064,Freelance,Neutral
+2065,Full-Time,Satisfied
+2066,Full-Time,Very Satisfied
+2067,Contract,Satisfied
+2068,Part-Time,Dissatisfied
+2069,Full-Time,Neutral
+2070,Freelance,Neutral
+2071,Freelance,Satisfied
+2072,Full-Time,Neutral
+2073,Contract,Neutral
+2074,Full-Time,Satisfied
+2075,Full-Time,Neutral
+2076,Freelance,Very Dissatisfied
+2077,Full-Time,Satisfied
+2078,Part-Time,Very Dissatisfied
+2079,Part-Time,Dissatisfied
+2080,Contract,Satisfied
+2081,Full-Time,Neutral
+2082,Full-Time,Satisfied
+2083,Full-Time,Satisfied
+2084,Full-Time,Satisfied
+2085,Freelance,Very Satisfied
+2086,Contract,Satisfied
+2087,Full-Time,Very Satisfied
+2088,Contract,Very Dissatisfied
+2089,Part-Time,Satisfied
+2090,Full-Time,Very Satisfied
+2091,Contract,Neutral
+2092,Internship,Satisfied
+2093,Full-Time,Satisfied
+2094,Internship,Dissatisfied
+2095,Full-Time,Neutral
+2096,Contract,Neutral
+2097,Part-Time,Satisfied
+2098,Full-Time,Neutral
+2099,Part-Time,Satisfied
+2100,Full-Time,Neutral
+2101,Full-Time,Dissatisfied
+2102,Full-Time,Satisfied
+2103,Contract,Neutral
+2104,Internship,Very Satisfied
+2105,Contract,Dissatisfied
+2106,Internship,Neutral
+2107,Contract,Satisfied
+2108,Part-Time,Very Satisfied
+2109,Part-Time,Dissatisfied
+2110,Full-Time,Satisfied
+2111,Full-Time,Satisfied
+2112,Freelance,Neutral
+2113,Full-Time,Very Dissatisfied
+2114,Full-Time,Satisfied
+2115,Full-Time,Satisfied
+2116,Full-Time,Satisfied
+2117,Full-Time,Very Satisfied
+2118,Part-Time,Neutral
+2119,Internship,Dissatisfied
+2120,Part-Time,Satisfied
+2121,Contract,Dissatisfied
+2122,Full-Time,Very Satisfied
+2123,Full-Time,Satisfied
+2124,Full-Time,Neutral
+2125,Full-Time,Satisfied
+2126,Full-Time,Very Satisfied
+2127,Part-Time,Satisfied
+2128,Contract,Satisfied
+2129,Full-Time,Neutral
+2130,Internship,Satisfied
+2131,Part-Time,Satisfied
+2132,Full-Time,Dissatisfied
+2133,Freelance,Very Satisfied
+2134,Full-Time,Neutral
+2135,Contract,Very Dissatisfied
+2136,Internship,Dissatisfied
+2137,Part-Time,Neutral
+2138,Part-Time,Satisfied
+2139,Internship,Dissatisfied
+2140,Part-Time,Very Dissatisfied
+2141,Full-Time,Satisfied
+2142,Part-Time,Satisfied
+2143,Full-Time,Satisfied
+2144,Full-Time,Satisfied
+2145,Full-Time,Satisfied
+2146,Contract,Very Satisfied
+2147,Internship,Dissatisfied
+2148,Full-Time,Very Dissatisfied
+2149,Part-Time,Satisfied
+2150,Full-Time,Very Satisfied
+2151,Full-Time,Dissatisfied
+2152,Internship,Neutral
+2153,Full-Time,Very Satisfied
+2154,Contract,Very Dissatisfied
+2155,Full-Time,Very Satisfied
+2156,Full-Time,Very Satisfied
+2157,Full-Time,Satisfied
+2158,Contract,Satisfied
+2159,Freelance,Very Satisfied
+2160,Full-Time,Satisfied
+2161,Internship,Dissatisfied
+2162,Full-Time,Satisfied
+2163,Part-Time,Very Satisfied
+2164,Contract,Satisfied
+2165,Contract,Satisfied
+2166,Full-Time,Satisfied
+2167,Contract,Very Satisfied
+2168,Full-Time,Very Satisfied
+2169,Freelance,Neutral
+2170,Full-Time,Neutral
+2171,Full-Time,Satisfied
+2172,Full-Time,Very Satisfied
+2173,Freelance,Very Satisfied
+2174,Internship,Neutral
+2175,Freelance,Very Satisfied
+2176,Part-Time,Dissatisfied
+2177,Full-Time,Very Dissatisfied
+2178,Full-Time,Neutral
+2179,Freelance,Satisfied
+2180,Full-Time,Satisfied
+2181,Internship,Neutral
+2182,Full-Time,Neutral
+2183,Part-Time,Neutral
+2184,Contract,Very Dissatisfied
+2185,Contract,Very Satisfied
+2186,Full-Time,Neutral
+2187,Freelance,Satisfied
+2188,Part-Time,Neutral
+2189,Part-Time,Neutral
+2190,Part-Time,Very Dissatisfied
+2191,Internship,Satisfied
+2192,Freelance,Very Dissatisfied
+2193,Full-Time,Neutral
+2194,Full-Time,Satisfied
+2195,Part-Time,Neutral
+2196,Contract,Neutral
+2197,Full-Time,Satisfied
+2198,Full-Time,Satisfied
+2199,Full-Time,Satisfied
+2200,Full-Time,Neutral
+2201,Freelance,Satisfied
+2202,Freelance,Satisfied
+2203,Internship,Neutral
+2204,Contract,Satisfied
+2205,Contract,Dissatisfied
+2206,Full-Time,Very Satisfied
+2207,Part-Time,Neutral
+2208,Freelance,Neutral
+2209,Full-Time,Very Satisfied
+2210,Full-Time,Satisfied
+2211,Full-Time,Satisfied
+2212,Freelance,Very Dissatisfied
+2213,Part-Time,Neutral
+2214,Full-Time,Satisfied
+2215,Full-Time,Satisfied
+2216,Full-Time,Very Satisfied
+2217,Part-Time,Dissatisfied
+2218,Contract,Satisfied
+2219,Freelance,Very Satisfied
+2220,Contract,Satisfied
+2221,Full-Time,Satisfied
+2222,Part-Time,Dissatisfied
+2223,Full-Time,Satisfied
+2224,Freelance,Dissatisfied
+2225,Full-Time,Satisfied
+2226,Freelance,Satisfied
+2227,Internship,Satisfied
+2228,Contract,Satisfied
+2229,Internship,Dissatisfied
+2230,Full-Time,Satisfied
+2231,Full-Time,Neutral
+2232,Full-Time,Very Satisfied
+2233,Full-Time,Satisfied
+2234,Full-Time,Neutral
+2235,Full-Time,Very Satisfied
+2236,Contract,Very Satisfied
+2237,Internship,Satisfied
+2238,Freelance,Very Satisfied
+2239,Part-Time,Very Dissatisfied
+2240,Full-Time,Very Satisfied
+2241,Full-Time,Very Satisfied
+2242,Full-Time,Satisfied
+2243,Part-Time,Very Dissatisfied
+2244,Full-Time,Satisfied
+2245,Freelance,Neutral
+2246,Full-Time,Very Satisfied
+2247,Contract,Satisfied
+2248,Internship,Very Satisfied
+2249,Full-Time,Satisfied
+2250,Full-Time,Satisfied
+2251,Internship,Neutral
+2252,Full-Time,Very Satisfied
+2253,Contract,Very Dissatisfied
+2254,Freelance,Dissatisfied
+2255,Contract,Satisfied
+2256,Contract,Satisfied
+2257,Full-Time,Very Dissatisfied
+2258,Contract,Very Dissatisfied
+2259,Full-Time,Very Satisfied
+2260,Part-Time,Satisfied
+2261,Full-Time,Satisfied
+2262,Full-Time,Very Dissatisfied
+2263,Full-Time,Neutral
+2264,Contract,Very Satisfied
+2265,Freelance,Satisfied
+2266,Part-Time,Neutral
+2267,Internship,Neutral
+2268,Freelance,Dissatisfied
+2269,Full-Time,Neutral
+2270,Contract,Neutral
+2271,Full-Time,Satisfied
+2272,Full-Time,Neutral
+2273,Internship,Very Dissatisfied
+2274,Full-Time,Satisfied
+2275,Part-Time,Very Satisfied
+2276,Full-Time,Satisfied
+2277,Full-Time,Satisfied
+2278,Full-Time,Satisfied
+2279,Full-Time,Very Satisfied
+2280,Full-Time,Very Satisfied
+2281,Freelance,Neutral
+2282,Freelance,Very Satisfied
+2283,Contract,Satisfied
+2284,Full-Time,Neutral
+2285,Full-Time,Very Satisfied
+2286,Internship,Dissatisfied
+2287,Full-Time,Very Dissatisfied
+2288,Full-Time,Neutral
+2289,Freelance,Very Satisfied
+2290,Internship,Dissatisfied
+2291,Part-Time,Dissatisfied
+2292,Internship,Dissatisfied
+2293,Full-Time,Satisfied
+2294,Part-Time,Neutral
+2295,Contract,Satisfied
+2296,Full-Time,Satisfied
+2297,Contract,Satisfied
+2298,Freelance,Dissatisfied
+2299,Full-Time,Satisfied
+2300,Internship,Satisfied
+2301,Full-Time,Very Satisfied
+2302,Full-Time,Neutral
+2303,Full-Time,Very Dissatisfied
+2304,Full-Time,Dissatisfied
+2305,Full-Time,Very Satisfied
+2306,Full-Time,Satisfied
+2307,Freelance,Satisfied
+2308,Full-Time,Very Satisfied
+2309,Full-Time,Satisfied
+2310,Part-Time,Satisfied
+2311,Freelance,Satisfied
+2312,Part-Time,Neutral
+2313,Contract,Very Satisfied
+2314,Contract,Satisfied
+2315,Full-Time,Satisfied
+2316,Part-Time,Neutral
+2317,Full-Time,Satisfied
+2318,Full-Time,Neutral
+2319,Full-Time,Neutral
+2320,Full-Time,Satisfied
+2321,Full-Time,Satisfied
+2322,Full-Time,Dissatisfied
+2323,Freelance,Dissatisfied
+2324,Full-Time,Neutral
+2325,Full-Time,Satisfied
+2326,Contract,Neutral
+2327,Internship,Very Dissatisfied
+2328,Full-Time,Satisfied
+2329,Contract,Dissatisfied
+2330,Full-Time,Very Satisfied
+2331,Full-Time,Neutral
+2332,Full-Time,Satisfied
+2333,Full-Time,Satisfied
+2334,Full-Time,Very Satisfied
+2335,Part-Time,Neutral
+2336,Full-Time,Dissatisfied
+2337,Internship,Dissatisfied
+2338,Contract,Neutral
+2339,Freelance,Neutral
+2340,Full-Time,Very Dissatisfied
+2341,Freelance,Satisfied
+2342,Part-Time,Dissatisfied
+2343,Contract,Very Satisfied
+2344,Part-Time,Very Satisfied
+2345,Part-Time,Neutral
+2346,Full-Time,Neutral
+2347,Full-Time,Satisfied
+2348,Full-Time,Satisfied
+2349,Full-Time,Very Satisfied
+2350,Contract,Satisfied
+2351,Internship,Neutral
+2352,Full-Time,Very Satisfied
+2353,Part-Time,Satisfied
+2354,Full-Time,Dissatisfied
+2355,Freelance,Very Satisfied
+2356,Freelance,Satisfied
+2357,Internship,Dissatisfied
+2358,Full-Time,Satisfied
+2359,Full-Time,Satisfied
+2360,Part-Time,Satisfied
+2361,Part-Time,Very Satisfied
+2362,Part-Time,Neutral
+2363,Internship,Neutral
+2364,Contract,Satisfied
+2365,Full-Time,Very Satisfied
+2366,Internship,Very Dissatisfied
+2367,Contract,Satisfied
+2368,Full-Time,Satisfied
+2369,Freelance,Very Dissatisfied
+2370,Internship,Neutral
+2371,Full-Time,Very Satisfied
+2372,Full-Time,Very Satisfied
+2373,Part-Time,Neutral
+2374,Full-Time,Very Satisfied
+2375,Freelance,Satisfied
+2376,Contract,Dissatisfied
+2377,Full-Time,Very Satisfied
+2378,Full-Time,Satisfied
+2379,Full-Time,Very Satisfied
+2380,Freelance,Satisfied
+2381,Part-Time,Neutral
+2382,Contract,Satisfied
+2383,Full-Time,Satisfied
+2384,Full-Time,Satisfied
+2385,Full-Time,Very Satisfied
+2386,Freelance,Satisfied
+2387,Full-Time,Very Satisfied
+2388,Part-Time,Very Satisfied
+2389,Full-Time,Satisfied
+2390,Full-Time,Very Satisfied
+2391,Internship,Neutral
+2392,Full-Time,Very Satisfied
+2393,Freelance,Neutral
+2394,Full-Time,Very Satisfied
+2395,Full-Time,Satisfied
+2396,Freelance,Very Satisfied
+2397,Full-Time,Very Satisfied
+2398,Freelance,Neutral
+2399,Full-Time,Satisfied
+2400,Freelance,Very Dissatisfied
