@@ -1,0 +1,209 @@
+ID,Name,Age,Gender,City,Department,Salary,JoinDate,Email,PerformanceScore
+1,Amna Sheikh,29.0,Male,Karachi,Business Administration,"$90,363.13",11-Nov-2023,amna.sheikh@example.com,61.1
+2,Kamran Raza,35.0,male,karachi,,$119413.51,06-19-2024,,23.7
+3,Iqra Farooq,39.0,m,karachi,Computer Science,"31,505.35",01-May-2023,iqra.farooq@example.com,80.6
+4,Waqas Butt,32.0,m,Multan,Business Administration,"$75,042.50",2022-02-20,waqas.butt@example.com,88.9
+5,Faisal Chaudhry,19.0,Female,peshawar ,Business Administration,"$40,432.94",22-Jan-2023,faisal.chaudhry@example.com,41.3
+6,Iqra Qureshi,42.0,m,Lahore ,Physics,$70132.23,09/08/2022,iqra.qureshi@example.com,84.0
+7,Sara Ansari,29.0,M,Lahore ,Computer Science,"$118,752.35",14/05/2015,sara.ansari@example.com,76.9
+8,Zainab Ansari,21.0,M,faisalabad,Physics,"37,378.51",04-22-2019,zainab.ansari@example.com,23.9
+9,Zainab Ansari,36.0,m,LAHORE,,$97122.43,2020-03-03,zainab.ansari@example.com,53.1
+10,Sana Qureshi,43.0,Female,karachi,Data Science,"$56,870.03",18-Aug-2017,sana.qureshi@example.com,34.5
+11,Hina Sheikh,29.0,Male,Multan,Physics,$87148.05,08-13-2017,hina.sheikh@example.com,99.0
+12,Mariam Baig,29.0,female,Lahore ,Mathematics,"119,696.83",12-15-2020,mariam.baig@example.com,30.7
+13,Amna Khan,38.0,male,faisalabad,Business Administration,"68,631.50",14/10/2018,amna.khan@example.com,66.4
+14,Nida Chaudhry,43.0,F,faisalabad,Data Science,97926.56,08-17-2023,nida.chaudhry@example.com,7.8
+15,Nida Raza,29.0,f,Karachi,Business Administration,"$100,031.16",26/04/2017,nida.raza@example.com,87.3
+16,Faisal Malik,42.0,Male,faisalabad,Computer Science,"$54,117.48",12-13-2017,faisal.malik@example.com,36.1
+17,Bilal Chaudhry,33.0,Male,Islamabad ,Business Administration,"76,390.68",,bilal.chaudhry@example.com,22.5
+18,Sara Khan,21.0,M,Karachi,Computer Science,$113648.96,01-Aug-2022,sara.khan@example.com,20.2
+19,Fatima Ansari,25.0,f,,Computer Science,80166.52,26-Mar-2022,fatima.ansari@example.com,66.8
+20,Hina Raza,38.0,,karachi,Electrical Engineering,47942.46,08/03/2024,hina.raza@example.com,47.4
+21,Faisal Sheikh,22.0,f,Multan,Electrical Engineering,,10-Jul-2019,faisal.sheikh@example.com,78.3
+22,Hina Baig,42.0,M,Karachi,Electrical Engineering,$54035.06,23-Aug-2019,hina.baig@example.com,12.1
+23,Omar Baig,28.0,Female,LAHORE,,"$57,835.62",,omar.baig@example.com,55.4
+24,Tariq Baig,31.0,F,Lahore ,,"58,054.47",2022-09-15,tariq.baig@example.com,24.8
+25,Mariam Sheikh,23.0,female,,Physics,110543.33,04-21-2019,mariam.sheikh@example.com,12.5
+26,Tariq Butt,40.0,female,Multan,Physics,$49876.43,03-15-2022,tariq.butt@example.com,41.6
+27,Tariq Farooq,38.0,Male,Karachi,Data Science,"55,715.53",2020-06-18,tariq.farooq@example.com,13.8
+28,Nida Farooq,31.0,female,Multan,Electrical Engineering,104765.79,08-Aug-2019,nida.farooq@example.com,57.0
+29,Sara Sheikh,22.0,Male,Multan,Electrical Engineering,"$40,660.64",26/10/2024,sara.sheikh@example.com,77.6
+30,Iqra Baig,30.0,M,peshawar ,Data Science,"$54,599.43",12-Apr-2022,iqra.baig@example.com,43.2
+31,Zainab Khan,150.0,m,Karachi,Physics,$64134.88,12/08/2018,zainab.khan@example.com,27.6
+32,Bilal Chaudhry,33.0,f,LAHORE,Data Science,"92,708.69",2016-05-02,bilal.chaudhry@example.com,2.3
+33,Omar Ansari,37.0,m,LAHORE,Physics,47107.09,17/01/2021,omar.ansari@example.com,36.4
+34,Faisal Khan,23.0,Female,QUETTA,Mathematics,"$55,672.43",10/04/2017,faisal.khan@example.com,96.9
+35,Zainab Ansari,36.0,m,LAHORE,,$97122.43,2020-03-03,zainab.ansari@example.com,53.1
+36,Fatima Farooq,20.0,,karachi,Business Administration,$51921.2,,fatima.farooq@example.com,
+37,Faisal Sheikh,44.0,M,Islamabad ,Mathematics,83270.35,14/11/2016,faisal.sheikh@example.com,86.7
+38,Ahmed Butt,29.0,female,QUETTA,Computer Science,"40,380.76",2017-10-09,ahmed.butt@example.com,10.8
+39,Ayesha Malik,,m,Multan,Data Science,"52,508.84",28-Jul-2018,ayesha.malik@example.com,10.7
+40,Zainab Malik,18.0,m,Karachi,Physics,"40,598.49",04-20-2022,zainab.malik@example.com,69.4
+41,Sara Ansari,29.0,M,Lahore ,Computer Science,"$118,752.35",14/05/2015,sara.ansari@example.com,76.9
+42,Nida Chaudhry,34.0,Female,LAHORE,Physics,"104,095.45",25-Jan-2023,nida.chaudhry@example.com,54.6
+43,  Nida Butt  ,41.0,f,LAHORE,Computer Science,$42668.13,2021-09-12,nida.butt@example.com,79.1
+44,Fatima Malik,34.0,,faisalabad,Business Administration,"$54,059.23",13-Jun-2016,fatima.malik@example.com,56.5
+45,Mariam Raza,27.0,f,faisalabad,Business Administration,,19-Feb-2019,mariam.raza@example.com,89.6
+46,Hassan Butt,23.0,Male,Multan,Data Science,62439.18,21/11/2020,hassan.butt@example.com,5.2
+47,Omar Ansari,28.0,male,peshawar ,Data Science,113068.65,03-Feb-2016,omar.ansari@example.com,9.7
+48,Usman Raza,42.0,m,peshawar ,,"$55,492.18",2023-11-10,usman.raza@example.com,22.1
+49,Omar Malik,32.0,female,Lahore ,Electrical Engineering,$109016.41,2017-07-17,omar.malik@example.com,83.1
+50,Sara Sheikh,45.0,male,faisalabad,Data Science,103881.21,19/03/2019,sara.sheikh@example.com,56.7
+51,Zainab Farooq,29.0,M,,Mathematics,$75180.64,12/02/2021,,2.8
+52,Hassan Khan,35.0,m,Islamabad ,Data Science,"$114,152.89",11-07-2022,hassan.khan@example.com,32.1
+53,Ali Khan,28.0,female,Multan,Business Administration,$68761.81,19/07/2023,ali.khan@example.com,17.0
+54,Sara Malik,19.0,,peshawar ,Electrical Engineering,"$47,243.11",07-06-2017,sara.malik@example.com,46.3
+55,Ahmed Khan,-5.0,Male,faisalabad,Data Science,$43592.67,2023-08-12,ahmed.khan@example.com,61.8
+56,Bilal Farooq,43.0,m,LAHORE,Data Science,"74,937.29",22/05/2018,bilal.farooq@example.com,71.5
+57,Mariam Farooq,28.0,,LAHORE,Mathematics,85904.33,09-07-2016,mariam.farooq@example.com,13.2
+58,Omar Malik,34.0,F,karachi,Data Science,"$69,398.24",20/09/2023,omar.malik@example.com,36.4
+59,Faisal Malik,22.0,Male,,Data Science,"$77,743.44",11/08/2021,faisal.malik@example.com,37.0
+60,Usman Ansari,28.0,female,peshawar ,Mathematics,"$55,043.10",2019-02-16,usman.ansari@example.com,74.9
+61,Bilal Butt,29.0,female,karachi,Business Administration,"41,202.75",24-Jul-2021,bilal.butt@example.com,89.5
+62,Tariq Farooq,42.0,male,LAHORE,Computer Science,,25/06/2023,tariq.farooq@example.com,19.9
+63,Iqra Butt,18.0,Female,karachi,Physics,$33620.85,21-Sep-2022,iqra.butt@example.com,91.6
+64,Mariam Baig,26.0,Male,Lahore ,Electrical Engineering,"$116,649.48",28/05/2015,mariam.baig@example.com,
+65,Waqas Butt,32.0,m,Multan,Business Administration,"$75,042.50",2022-02-20,waqas.butt@example.com,88.9
+66,Waqas Ansari,40.0,Male,Multan,Mathematics,"31,877.09",10-15-2017,waqas.ansari@example.com,8.8
+67,Ayesha Chaudhry,20.0,f,QUETTA,Data Science,"83,443.01",04-10-2015,ayesha.chaudhry@example.com,70.3
+68,Hina Chaudhry,20.0,M,Karachi,Computer Science,"63,186.38",2016-11-28,hina.chaudhry@example.com,61.5
+69,Faisal Ansari,34.0,Male,QUETTA,Electrical Engineering,"$118,351.67",04-01-2020,faisal.ansari@example.com,38.4
+70,Omar Sheikh,150.0,f,Islamabad ,Mathematics,85381.34,07/05/2015,omar.sheikh@example.com,54.9
+71,Waqas Baig,20.0,male,Islamabad ,Physics,34478.62,22-Aug-2019,waqas.baig@example.com,48.6
+72,Faisal Ansari,40.0,Male,faisalabad,Data Science,99523.28,12-Jan-2024,faisal.ansari@example.com,66.2
+73,Amna Khan,41.0,f,karachi,Physics,$112744.84,03/09/2015,amna.khan@example.com,6.9
+74,Amna Raza,39.0,F,karachi,Computer Science,"$102,454.12",02-07-2019,amna.raza@example.com,21.3
+75,Sana Qureshi,30.0,m,QUETTA,Computer Science,$91445.73,06-Feb-2020,sana.qureshi@example.com,52.9
+76,Kamran Baig,19.0,f,karachi,,"$47,561.56",21-Sep-2023,kamran.baig@example.com,40.9
+77,Bilal Qureshi,21.0,F,Islamabad ,Electrical Engineering,"96,474.42",09-20-2024,bilal.qureshi@example.com,98.1
+78,Zainab Butt,39.0,M,LAHORE,Computer Science,"$66,475.05",2023-08-02,zainab.butt@example.com,70.3
+79,Nida Chaudhry,,Female,faisalabad,Electrical Engineering,,2016-11-23,nida.chaudhry@example.com,44.4
+80,Faisal Baig,19.0,female,Karachi,Business Administration,69954.54,03-17-2024,faisal.baig@example.com,39.8
+81,Zainab Butt,43.0,m,faisalabad,Computer Science,$79010.61,2019-03-03,zainab.butt@example.com,16.6
+82,Hina Qureshi,,F,Islamabad ,Computer Science,$43179.98,2017-10-05,hina.qureshi@example.com,17.7
+83,Sara Malik,39.0,male,peshawar ,Computer Science,"$42,850.15",03/03/2015,sara.malik@example.com,77.9
+84,Kamran Baig,35.0,f,karachi,Physics,"88,665.37",17/08/2024,kamran.baig@example.com,95.8
+85,Fatima Khan,43.0,F,karachi,Electrical Engineering,36056.18,2022-10-22,fatima.khan@example.com,24.5
+86,Mariam Farooq,29.0,male,LAHORE,Computer Science,"$46,865.26",17-Sep-2023,mariam.farooq@example.com,10.3
+87,Amna Malik,,m,peshawar ,Computer Science,"$56,266.26",18/12/2016,amna.malik@example.com,57.2
+88,Ali Baig,35.0,M,faisalabad,Computer Science,93705.69,02-02-2018,ali.baig@example.com,
+89,Hina Sheikh,38.0,female,QUETTA,Mathematics,39535.01,17/04/2019,hina.sheikh@example.com,44.6
+90,Nida Qureshi,35.0,Male,Lahore ,Business Administration,$37548.76,17/08/2019,nida.qureshi@example.com,83.1
+91,  Faisal Chaudhry  ,32.0,female,faisalabad,Computer Science,"$34,548.64",22-Nov-2024,faisal.chaudhry@example.com,28.6
+92,  Nida Farooq  ,21.0,female,Karachi,Electrical Engineering,"$63,363.44",28/10/2015,nida.farooq@example.com,74.1
+93,Tariq Malik,38.0,female,,Computer Science,$62633.79,25-Jun-2018,tariq.malik@example.com,19.2
+94,Tariq Raza,0.0,Female,Lahore ,Mathematics,87900.66,28-Aug-2015,tariq.raza@example.com,42.6
+95,Ahmed Ansari,34.0,f,peshawar ,Mathematics,59456.04,12-15-2016,ahmed.ansari@example.com,85.0
+96,Nida Chaudhry,43.0,F,faisalabad,Data Science,97926.56,08-17-2023,nida.chaudhry@example.com,7.8
+97,Nida Raza,35.0,F,Karachi,Mathematics,$102674.73,22-Feb-2016,nida.raza@example.com,35.4
+98,Fatima Sheikh,41.0,male,Islamabad ,Business Administration,"$80,386.41",21/07/2018,fatima.sheikh@example.com,
+99,Kamran Malik,20.0,Male,Islamabad ,Electrical Engineering,"54,751.44",10-17-2021,kamran.malik@example.com,45.4
+100,Kamran Farooq,23.0,F,karachi,Business Administration,$32942.56,06-May-2023,kamran.farooq@example.com,56.6
+101,Faisal Khan,41.0,f,faisalabad,Physics,68659.76,2018-04-09,faisal.khan@example.com,57.7
+102,Omar Khan,,f,Islamabad ,Electrical Engineering,"61,934.25",05-20-2020,omar.khan@example.com,55.6
+103,Zainab Malik,42.0,male,peshawar ,Computer Science,"61,706.91",15-Nov-2017,,
+104,Hassan Malik,27.0,M,LAHORE,Data Science,$60308.79,05/07/2024,hassan.malik@example.com,
+105,Hassan Raza,20.0,f,peshawar ,Mathematics,"$35,603.91",2021-10-23,hassan.raza@example.com,85.7
+106,Sana Qureshi,36.0,M,LAHORE,Electrical Engineering,"$49,027.54",01-03-2019,sana.qureshi@example.com,89.9
+107,Hina Baig,38.0,F,Islamabad ,Electrical Engineering,,,hina.baig@example.com,32.4
+108,Nida Raza,40.0,,faisalabad,Electrical Engineering,"79,687.14",08-18-2021,nida.raza@example.com,30.8
+109,Ahmed Qureshi,39.0,m,Karachi,Electrical Engineering,"92,078.83",01-24-2022,ahmed.qureshi@example.com,61.5
+110,Sara Sheikh,32.0,F,Karachi,,"84,599.42",12-28-2020,sara.sheikh@example.com,97.5
+111,Tariq Malik,38.0,female,,Computer Science,$62633.79,25-Jun-2018,tariq.malik@example.com,19.2
+112,Hina Farooq,43.0,,Islamabad ,Computer Science,"$57,836.16",25-Jul-2023,hina.farooq@example.com,
+113,Ahmed Farooq,37.0,m,,Physics,"33,308.86",,ahmed.farooq@example.com,10.9
+114,Ahmed Farooq,40.0,Male,QUETTA,Electrical Engineering,34081.21,2019-08-04,ahmed.farooq@example.com,23.5
+115,Fatima Malik,41.0,Female,Multan,Physics,"48,956.67",11-21-2018,fatima.malik@example.com,50.5
+116,Sara Khan,24.0,male,faisalabad,Business Administration,56050.24,24-Aug-2015,sara.khan@example.com,17.6
+117,Iqra Baig,19.0,F,faisalabad,Mathematics,"48,800.02",07/01/2019,iqra.baig@example.com,96.2
+118,Omar Malik,20.0,female,peshawar ,Physics,53806.88,04-Sep-2022,,7.9
+119,Hina Baig,27.0,M,Multan,Data Science,,,hina.baig@example.com,91.1
+120,Hassan Chaudhry,19.0,female,Lahore ,Data Science,"41,000.82",12-02-2021,hassan.chaudhry@example.com,60.0
+121,Hassan Chaudhry,30.0,m,Islamabad ,Mathematics,$46717.83,03-16-2023,hassan.chaudhry@example.com,14.0
+122,Kamran Sheikh,26.0,Female,Lahore ,Data Science,,05-Apr-2020,kamran.sheikh@example.com,9.1
+123,Mariam Khan,18.0,female,LAHORE,Business Administration,"$70,891.42",09-15-2017,mariam.khan@example.com,19.3
+124,Bilal Malik,22.0,male,Karachi,Data Science,70060.01,2020-11-12,bilal.malik@example.com,55.0
+125,Fatima Khan,41.0,male,faisalabad,Data Science,39224.57,2024-07-02,fatima.khan@example.com,9.4
+126,Amna Baig,36.0,male,Multan,Electrical Engineering,"$59,687.88",04-16-2024,amna.baig@example.com,25.7
+127,Usman Khan,40.0,f,Karachi,Electrical Engineering,106990.52,09-21-2020,usman.khan@example.com,6.1
+128,Ahmed Farooq,19.0,F,karachi,,"58,403.62",27-Jul-2023,ahmed.farooq@example.com,25.3
+129,Hassan Malik,33.0,female,,Physics,,28-Nov-2020,hassan.malik@example.com,95.4
+130,Bilal Malik,25.0,F,Karachi,Data Science,"$72,848.38",01-03-2022,bilal.malik@example.com,22.2
+131,Amna Malik,32.0,m,Multan,Data Science,114626.27,08-01-2018,,91.5
+132,Zainab Chaudhry,35.0,Male,peshawar ,Mathematics,107558.79,2021-01-15,,86.2
+133,Sara Farooq,22.0,M,Karachi,Physics,"71,614.05",2015-07-09,sara.farooq@example.com,74.6
+134,Iqra Baig,39.0,Female,karachi,Computer Science,"46,237.45",01/06/2020,,87.0
+135,Hina Qureshi,45.0,Female,Islamabad ,Physics,$83115.15,02-08-2020,hina.qureshi@example.com,11.7
+136,Mariam Raza,19.0,Male,LAHORE,Data Science,73739.14,05-Mar-2023,mariam.raza@example.com,94.7
+137,Ali Khan,25.0,f,LAHORE,Mathematics,$109752.32,13/08/2021,ali.khan@example.com,14.8
+138,Bilal Khan,32.0,m,Islamabad ,Data Science,"$48,350.25",05/12/2015,bilal.khan@example.com,56.1
+139,Fatima Malik,45.0,F,Lahore ,Mathematics,$70639.94,27-Jun-2021,fatima.malik@example.com,39.9
+140,Nida Farooq,23.0,male,peshawar ,Electrical Engineering,"$94,828.22",2017-09-21,nida.farooq@example.com,52.4
+141,Faisal Ansari,42.0,female,karachi,Computer Science,"$59,672.17",24/05/2019,,33.3
+142,Amna Malik,34.0,male,Islamabad ,Data Science,"86,203.13",2024-01-27,amna.malik@example.com,8.1
+143,Ali Malik,20.0,M,Islamabad ,Business Administration,$82425.86,03-02-2021,ali.malik@example.com,36.5
+144,Waqas Butt,38.0,M,,Mathematics,"110,009.72",08-Aug-2019,waqas.butt@example.com,
+145,Mariam Chaudhry,37.0,male,peshawar ,Physics,115814.98,2024-06-16,mariam.chaudhry@example.com,11.2
+146,Iqra Sheikh,27.0,f,faisalabad,Business Administration,"$45,987.35",24-May-2020,iqra.sheikh@example.com,96.8
+147,Iqra Sheikh,41.0,female,QUETTA,Data Science,"$94,762.71",25-May-2024,,23.4
+148,Hassan Ansari,,Male,peshawar ,Mathematics,106242.0,,,5.2
+149,Ali Baig,33.0,,,Physics,"$73,240.39",2017-11-08,ali.baig@example.com,57.3
+150,Hina Malik,34.0,M,Lahore ,Mathematics,108599.83,,,35.7
+151,Hassan Qureshi,44.0,f,QUETTA,Electrical Engineering,"81,968.30",2021-07-15,hassan.qureshi@example.com,63.4
+152,Faisal Sheikh,33.0,female,Islamabad ,Computer Science,"$108,677.13",2016-09-15,faisal.sheikh@example.com,72.2
+153,Ahmed Farooq,,Male,Lahore ,Computer Science,88693.04,,ahmed.farooq@example.com,48.6
+154,Bilal Farooq,40.0,male,peshawar ,Physics,84652.27,2017-05-04,bilal.farooq@example.com,92.9
+155,Amna Qureshi,,Male,Islamabad ,Physics,"97,091.09",14/02/2015,amna.qureshi@example.com,
+156,Tariq Ansari,21.0,,faisalabad,Computer Science,"$34,297.45",2024-08-03,tariq.ansari@example.com,83.7
+157,Zainab Baig,150.0,male,karachi,Data Science,67886.45,08-15-2016,zainab.baig@example.com,51.3
+158,Kamran Butt,45.0,Female,QUETTA,Physics,85892.46,11-07-2018,kamran.butt@example.com,66.0
+159,Nida Raza,24.0,,Karachi,Business Administration,$103848.27,,nida.raza@example.com,39.8
+160,Faisal Farooq,29.0,m,,Physics,$96804.21,04-Nov-2021,faisal.farooq@example.com,61.6
+161,Omar Khan,45.0,Male,Karachi,,"$116,470.88",07-06-2017,omar.khan@example.com,
+162,Sara Qureshi,24.0,female,LAHORE,Physics,"$109,572.12",05/12/2024,sara.qureshi@example.com,86.5
+163,Iqra Qureshi,36.0,M,LAHORE,Data Science,"50,510.84",2016-04-28,,38.0
+164,Zainab Farooq,37.0,Male,,Electrical Engineering,"$57,419.22",10-13-2020,zainab.farooq@example.com,44.0
+165,Mariam Raza,29.0,male,karachi,Business Administration,34096.41,23/05/2023,mariam.raza@example.com,63.8
+166,Sara Chaudhry,34.0,male,Lahore ,Electrical Engineering,"$59,530.59",07-Nov-2016,sara.chaudhry@example.com,9.1
+167,Fatima Ansari,22.0,m,peshawar ,Business Administration,34071.82,09-07-2024,fatima.ansari@example.com,55.3
+168,Faisal Raza,31.0,Female,Karachi,Business Administration,"104,550.93",05-Oct-2023,faisal.raza@example.com,78.8
+169,Faisal Sheikh,,M,QUETTA,,"$55,822.23",10-21-2024,faisal.sheikh@example.com,46.5
+170,Mariam Sheikh,40.0,female,,Physics,$50181.75,26-Apr-2017,mariam.sheikh@example.com,
+171,Ayesha Farooq,,Female,Lahore ,Computer Science,,27/10/2021,ayesha.farooq@example.com,54.5
+172,Waqas Chaudhry,,f,karachi,Computer Science,56588.9,12-05-2016,waqas.chaudhry@example.com,31.2
+173,Amna Butt,42.0,Female,LAHORE,Mathematics,44234.2,25/09/2019,amna.butt@example.com,50.8
+174,Iqra Raza,40.0,M,Lahore ,Physics,$66719.16,04/08/2016,iqra.raza@example.com,
+175,Hina Chaudhry,,f,faisalabad,Computer Science,$54072.45,02-02-2017,hina.chaudhry@example.com,94.5
+176,Iqra Khan,35.0,m,Lahore ,,"70,428.81",23-Mar-2015,iqra.khan@example.com,34.0
+177,Waqas Ansari,38.0,f,LAHORE,Business Administration,"66,751.33",11-Mar-2016,waqas.ansari@example.com,69.4
+178,Sara Malik,38.0,M,Multan,Computer Science,$60020.09,24-Mar-2019,sara.malik@example.com,55.2
+179,Tariq Butt,31.0,F,Karachi,Mathematics,"$79,613.86",17/10/2018,tariq.butt@example.com,86.4
+180,Amna Ansari,32.0,F,faisalabad,Physics,,24-Jun-2015,amna.ansari@example.com,70.5
+181,Fatima Sheikh,38.0,Male,QUETTA,Mathematics,"$64,345.74",2023-05-18,fatima.sheikh@example.com,68.0
+182,Waqas Qureshi,41.0,female,Multan,Data Science,$67395.28,09-12-2017,waqas.qureshi@example.com,83.0
+183,Hassan Khan,35.0,m,Islamabad ,Data Science,"$114,152.89",11-07-2022,hassan.khan@example.com,32.1
+184,Waqas Chaudhry,24.0,F,Karachi,Computer Science,"61,510.26",19/05/2016,waqas.chaudhry@example.com,80.7
+185,Nida Farooq,42.0,,Karachi,Data Science,"$58,452.50",08-15-2016,nida.farooq@example.com,79.6
+186,Faisal Baig,39.0,F,Islamabad ,Mathematics,"$87,411.42",01-Nov-2019,faisal.baig@example.com,90.1
+187,Fatima Khan,36.0,f,Karachi,Business Administration,46592.73,2019-08-04,fatima.khan@example.com,40.1
+188,Ahmed Baig,25.0,male,karachi,Mathematics,$109402.05,26-Jul-2015,ahmed.baig@example.com,18.6
+189,Sana Ansari,22.0,f,Islamabad ,Electrical Engineering,"106,440.68",02-Aug-2017,sana.ansari@example.com,96.8
+190,Tariq Raza,31.0,male,karachi,Data Science,"$91,087.51",21-Jun-2015,tariq.raza@example.com,78.6
+191,Hina Sheikh,0.0,female,LAHORE,Mathematics,"$89,037.48",04-27-2018,hina.sheikh@example.com,93.3
+192,Usman Qureshi,27.0,Female,karachi,Data Science,$62359.69,04-Nov-2015,usman.qureshi@example.com,30.7
+193,Hassan Qureshi,27.0,male,QUETTA,,93795.06,09-13-2019,hassan.qureshi@example.com,81.3
+194,Ahmed Raza,29.0,Female,Karachi,Physics,118546.8,2023-05-22,ahmed.raza@example.com,93.9
+195,Omar Ansari,26.0,female,QUETTA,Computer Science,$113886.04,2024-09-06,omar.ansari@example.com,95.3
+196,Ayesha Ansari,18.0,m,peshawar ,Data Science,$107765.76,2019-03-26,ayesha.ansari@example.com,38.3
+197,Mariam Baig,28.0,f,Lahore ,Data Science,,2015-06-11,mariam.baig@example.com,98.0
+198,Mariam Raza,37.0,F,faisalabad,Physics,$52556.41,2016-11-21,mariam.raza@example.com,30.9
+199,Sana Raza,45.0,female,peshawar ,Electrical Engineering,"$98,680.92",08-16-2023,sana.raza@example.com,49.7
+200,Ayesha Farooq,38.0,M,Islamabad ,Data Science,,25/11/2024,ayesha.farooq@example.com,17.5
+201,Fatima Raza,27.0,f,karachi,Business Administration,61371.93,25/02/2022,fatima.raza@example.com,21.0
+202,Zainab Qureshi,42.0,Female,karachi,Electrical Engineering,"118,877.46",2017-02-22,zainab.qureshi@example.com,13.2
+203,Tariq Khan,0.0,f,peshawar ,Physics,$71128.97,,tariq.khan@example.com,39.3
+204,Hina Sheikh,29.0,Male,Multan,Physics,$87148.05,08-13-2017,hina.sheikh@example.com,99.0
+205,Nida Chaudhry,30.0,f,Islamabad ,Physics,"60,809.43",,nida.chaudhry@example.com,95.7
+206,Waqas Qureshi,41.0,female,Multan,Data Science,$67395.28,09-12-2017,waqas.qureshi@example.com,83.0
+207,Hassan Malik,37.0,F,faisalabad,Computer Science,$90285.06,04-Jan-2018,hassan.malik@example.com,33.0
+208,Faisal Farooq,18.0,,Multan,Mathematics,$78439.85,09-Apr-2022,faisal.farooq@example.com,48.6
