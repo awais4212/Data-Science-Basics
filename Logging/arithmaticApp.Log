@@ -6,3 +6,11 @@
 2026-07-23 2026:25:59 - arithmaticApp - DEBUG - subtraccting 4 - 2 = 2
 2026-07-23 2026:25:59 - arithmaticApp - DEBUG - multiplying 4 * 4 = 16
 2026-07-23 2026:25:59 - arithmaticApp - DEBUG - dividing 10 / 2 = 5.0
+2026-07-23 2026:31:36 - arithmaticApp - DEBUG - Adding 10 + 20 = 30
+2026-07-23 2026:31:36 - arithmaticApp - DEBUG - subtraccting 4 - 2 = 2
+2026-07-23 2026:31:36 - arithmaticApp - DEBUG - multiplying 4 * 4 = 16
+2026-07-23 2026:31:36 - arithmaticApp - ERROR - Division By Zero
+2026-07-23 2026:32:11 - arithmaticApp - DEBUG - Adding 10 + 20 = 30
+2026-07-23 2026:32:11 - arithmaticApp - DEBUG - subtraccting 4 - 2 = 2
+2026-07-23 2026:32:11 - arithmaticApp - DEBUG - multiplying 4 * 4 = 16
+2026-07-23 2026:32:11 - arithmaticApp - ERROR - Division By Zero

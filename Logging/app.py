@@ -29,11 +29,15 @@ def mul(a,b):
 
 
 def div(a,b):
-    result = a/b
-    logger.debug(f"dividing {a} / {b} = {result}")
-    return result
+    try:
+        result = a/b
+        logger.debug(f"dividing {a} / {b} = {result}")
+        return result
+    except Exception as e:
+        logger.error('Division By Zero')
+        return None
 
 add(10,20)
 sub(4,2)
 mul(4,4)
-div(10,2)
+div(10,0)
