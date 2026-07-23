@@ -1,0 +1,8 @@
+2026-07-23 2026:25:26 - arithmaticApp - DEBUG - Adding 10 + 20 = result
+2026-07-23 2026:25:26 - arithmaticApp - DEBUG - subtraccting 4 - 2 = 2
+2026-07-23 2026:25:26 - arithmaticApp - DEBUG - multiplying 4 * 4 = 16
+2026-07-23 2026:25:26 - arithmaticApp - DEBUG - dividing 10 / 2 = 5.0
+2026-07-23 2026:25:59 - arithmaticApp - DEBUG - Adding 10 + 20 = 30
+2026-07-23 2026:25:59 - arithmaticApp - DEBUG - subtraccting 4 - 2 = 2
+2026-07-23 2026:25:59 - arithmaticApp - DEBUG - multiplying 4 * 4 = 16
+2026-07-23 2026:25:59 - arithmaticApp - DEBUG - dividing 10 / 2 = 5.0
