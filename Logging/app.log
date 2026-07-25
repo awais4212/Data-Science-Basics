@@ -1,2 +1,7 @@
 2026-07-22 21:34:23-root-DEBUG-It took place
 2026-07-22 21:34:23-root-DEBUG-The addition Opearation statring
+2026-07-24 22:01:05 - root - DEBUG - This is Debug Message
+2026-07-24 22:01:05 - root - INFO - This is info Message
+2026-07-24 22:01:05 - root - WARNING - This is warning Message
+2026-07-24 22:01:05 - root - ERROR - This is error Message
+2026-07-24 22:01:05 - root - CRITICAL - This is critical Message
