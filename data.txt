@@ -1,17 +1,25 @@
-1. Introduction
-As data scientists work at the intersection of various domains — statistics, programming, AI — the ability to convey complex methodologies and insights becomes crucial. Thus, a skill to deal with comprehensive API concepts is essential for effective communication within the team.
+4 Mistakes of Aisha:
 
-First, it fosters collaboration among team members and stakeholders. Data Science (DS) projects often involve multidisciplinary teams consisting of not only data specialists, but also software developers, business analysts, project managers, etc. Well-documented APIs serve as a bridge between all of them, enabling these diverse groups to understand and utilize DS models and tools correctly.
+1-Understanding The Assignment:
+The first mistake she made that Aisha did not read the complete instruction and without understand the assignment she directly copied the paragraphs from the websites on the internet.
 
-Second, high-quality API documentation enhances reproducibility and might reduce on boarding time for newcomers. In DS, where models and analyses must be validated and replicated, clear API documentation ensures that others can follow the same processes, use the same data, and achieve consistent results. This is particularly important in developing data-driven decision-making.
+2-Plagiarism & Purpose of Academic writing:
+Aisha copied paragraph from the various websites and tried to show it as her own work. Aisha did not followed the purpose of academic writing that who will be the audience or who will read the assignment. The Websites contains the informal writing such as contraction and slang was found in the paragraph which she did not remove from the assignment.
 
-Finally, as Data Science becomes increasingly integrated into business strategies, well-documented APIs can improve the scalability of data solutions and simplify the process of working with data. For example, APIs can play a significant role in data gathering for projects, enabling rapid prototyping and development of applications that rely on up-to-date information. By leveraging APIs for data gathering from sources like REST Countries (see Case 6.1), data scientists can focus on analysis rather than data acquisition.
+3-Skipped Four Stages of Writing:
+Aisha skipped the four stages of writing (prewriting, draft\writing, revising\editing and publishing). The brainstorming and Mapping could be highly beneficial for her. Therefor, Aisha can easily draft\write her report after brainstorming (prewriting stage), where she could made the list of important points she needed to write. Aisha skipped the revising\editing stage. The consequences she faced that assignment had flaws in it contraction, Informal language was there and Non Structure assignment.
 
-In this post we will:
+4- Note Taking:
+Instead of paying attention during lectures, Aisha spent a significant portion of each lecture checking social media.
+One of Aisha's mistakes was neglecting the note taking during lectures, she relied on her memory instead of write down the key points. As a consequences Aisha struggled to revise for the midterm examination, because she had no organized notes.
 
-Briefly explore what an API is and its purpose in software development.
-Meet with the main components of the REST API.
-Describe the most common formats and provide practical cases of API calls and responses.
-Sum up how a good API documentation should look, with information on endpoints, parameters, and responses.
-2. What is API
-An API (Application Programming Interface) comprises a set of methods by which different programs communicate with each other and exchange data. Essentially, it is an intermediary that allows applications, devices, servers, and other systems to exchange information, while hiding the processes within each system from each other.
+Writing Process: There are Three stages for writing process are as following:
+Pre-writing
+draft\writing
+revise\editing
+
+Prewriting: it includes Brain Storming (making list, free writing, questioning) and clustering. It could be highly beneficial for Aisha to draft her ideas in rough work which later she could use while writing.
+
+draft\writing: During draft stage, Aisha could have written the draft of her report by organizing her idea into a clear introduction, body paragraphs and conclusion. This would have improved the structure, coherence and overall quality of her assignment.
+
+Revising/Editing Stage: Aisha could have improve her assignment by revising and editing the draft. she could have identified contraction, slang expressions, absolute statements, missing citations, grammatical errors and weakness in the structure of the assignment. This stage would have helped her produce a clearer, more formal and well-organized report.
