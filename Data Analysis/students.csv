@@ -1,0 +1,21 @@
+StudentID,Name,Age,Gender,City,Marks,Grade,Attendance,Course,Fee_Paid
+1,Ali Ahmed,20,Male,Karachi,85,A,90,Computer Science,50000
+2,Sara Khan,22,,Lahore,78,B,85,Business Admin,45000
+3,Usman Malik,19,Male,,92,A,95,Computer Science,50000
+4,Ayesha Raza,21,Female,Islamabad,,B,80,Electrical Eng,48000
+5,Bilal Hassan,23,Male,Karachi,55,C,60,Business Admin,45000
+6,Fatima Noor,,Female,Lahore,88,A,92,Computer Science,50000
+7,Zain Sheikh,20,Male,Karachi,72,B,,Mechanical Eng,47000
+8,Hina Qureshi,22,Female,Islamabad,91,A,97,Computer Science,50000
+9,Omar Farooq,,Male,Lahore,43,F,40,Business Admin,45000
+10,Mariam Baig,21,Female,Karachi,,C,70,Electrical Eng,48000
+11,Asad Javed,24,Male,,67,C,75,Mechanical Eng,47000
+12,Nadia Shah,20,Female,Islamabad,80,B,88,Computer Science,50000
+13,Hamza Ali,19,Male,Karachi,95,A,98,,50000
+14,Sana Mir,22,,Lahore,60,C,65,Business Admin,45000
+15,Tariq Mehmood,25,Male,Islamabad,74,B,79,Electrical Eng,48000
+16,Rabia Iqbal,21,Female,Karachi,,B,83,Computer Science,50000
+17,Kamran Butt,20,Male,Lahore,88,A,91,Mechanical Eng,47000
+18,Amna Malik,,Female,Islamabad,53,C,58,Business Admin,45000
+19,Faisal Raza,23,Male,Karachi,77,B,,Computer Science,50000
+20,Zara Hussain,21,Female,Lahore,69,C,72,Electrical Eng,48000
